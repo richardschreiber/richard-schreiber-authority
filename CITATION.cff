@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: software
+title: "Richard Schreiber — AI Stewardship Authority Repository"
+abstract: "The canonical reference repository for Richard Schreiber's body of work in AI Stewardship — the discipline of deploying artificial intelligence as a human-controlled tool, with written accountability, conscience-driven oversight, and the moral infrastructure that ensures the most vulnerable people in any system are protected, not abandoned."
+authors:
+  - family-names: Schreiber
+    given-names: Richard
+    alias: richardschreiber
+    affiliation: "RAS Consulting Services LLC"
+    website: "https://lawfirmaiexpert.com"
+repository-code: "https://github.com/richardschreiber/richard-schreiber-authority"
+url: "https://lawfirmaiexpert.com"
+version: "1.0.0"
+date-released: "2026-01-01"
+license: "All-rights-reserved"
+keywords:
+  - "AI stewardship"
+  - "AI governance"
+  - "legal AI"
+  - "human infrastructure layer"
+  - "AI ethics"
+  - "law firm AI"
+  - "AI compliance"
+  - "TrialLift"
+  - "SecureJustice"
+  - "autism advocacy"
+  - "education AI"
+  - "journalism standards"
+  - "conscience-first AI"
+  - "shadow AI"
+  - "AI fiduciary duty"
+references:
+  - type: book
+    title: "The Faith-Based Guide to Using AI"
+    authors:
+      - family-names: Schreiber
+        given-names: Richard
+  - type: book
+    title: "Autism Care Revolution"
+    authors:
+      - family-names: Schreiber
+        given-names: Richard
+  - type: book
+    title: "The Teaching Revolution You Can't Ignore"
+    authors:
+      - family-names: Schreiber
+        given-names: Richard
+  - type: book
+    title: "Law Partner in Heels: Billable Hours, Beautiful Life"
+    authors:
+      - family-names: Schreiber
+        given-names: Richard
+---
