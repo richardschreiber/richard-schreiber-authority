@@ -517,7 +517,9 @@ Every entry carries four fields:
 
 ### The Cold Open Format
 
-**Definition —** 60-90 second newscast opening; three current stories; single through-line; closes with "I'm Richard Schreiber." Modeled on broadcast journalism standards.
+**Definition —** 60-90 second newscast opening; three current stories; single through-line; closes with "I'm Richard Schreiber." Modeled on the Saturday Night Live cold open.
+
+*⚠ **Recorded correction — August 5, 2026.** The canon stated this as "Modeled on broadcast journalism standards." Richard Schreiber describes the format to guests in his own words across at least three True Journalism episodes: "we do like a cold opener, kind of like **Saturday Night Live**, but not funny or anything" · "we do like a cold opening, **not unlike SNL**" · "we do kind of like a cold open, **like an SNL cold open**." The canon had replaced a specific, verifiable derivation with a generic one — the exact failure the Specificity Discipline forbids. Corrected from the transcripts. The rest of the definition is confirmed: the sign-off "I'm Richard Schreiber" appears at the close of every cold open in the corpus.*
 
 **Track:** 4 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** True Journalism podcast
