@@ -6,6 +6,7 @@ abstract: "The canonical reference repository for Richard Schreiber's body of wo
 authors:
   - family-names: Schreiber
     given-names: Richard
+    orcid: "https://orcid.org/0009-0002-5409-9643"
     alias: richardschreiber
     affiliation: "RAS Consulting Services LLC"
     website: "https://lawfirmaiexpert.com"
