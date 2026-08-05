@@ -233,6 +233,8 @@ Every entry carries four fields:
 
 **Definition —** Three-tier classification for every AI tool and use case: Red (prohibited), Yellow (requires oversight), Green (standard use). Built for immediate deployment without a chief AI officer.
 
+*⚠ **Attribution corrected — August 5, 2026. This is not Richard Schreiber's IP.** The three-tier traffic-light model originates with the **American Bar Association** and has been adopted or referenced by multiple state bars and ethics committees — [ABA Practical Checklist for Using AI Responsibly in Your Law Firm](https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2026/checklist-for-using-ai-responsibly-in-your-law-firm/). Richard attributed it correctly in his own published writing, where it appears as **"The Bar Classification System,"** with the ABA cited and linked. The canon renamed it and filed it under original IP; that was an extraction error, not a claim Richard made. See [Adopted, Not Original](#10--adopted-not-original). What is his: the legal-organization deployment guidance built around the tiers.*
+
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/traffic-light-ai-classification.md)
@@ -729,8 +731,11 @@ Five of the fifteen are elevated into AUTHORITY-CANON.md Section 5 with full ope
 | The F.R.I.D.A.Y. call review system | Built from Byron Van Pelt coaching |
 | The Guild pod framework | Baz Porter |
 | The Authority Signal Sprint methodology | InFLOW OS |
+| **The Traffic Light AI Classification System** (published by Richard as *The Bar Classification System*) | **American Bar Association**, adopted or referenced by multiple state bars and ethics committees |
 
-**Source:** Fuller Extract Additions — Borrowed Frameworks vs. Original IP.
+**Source:** Fuller Extract Additions — Borrowed Frameworks vs. Original IP. The Traffic Light entry was added August 5, 2026 after an audit against Richard's published legal AI writing found it filed as original IP in the canon despite being correctly attributed to the ABA in the blog post that introduced it.
+
+*This section is the reason the rest of this glossary can be trusted. A vocabulary file that claims everything is worth nothing.*
 
 ---
 
