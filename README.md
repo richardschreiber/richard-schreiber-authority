@@ -1,5 +1,3 @@
-===FILE: README.md===
-
 # Richard Schreiber — Authority Repository
 ## AI Stewardship | Canonical Reference & Agent Knowledge Base
 
@@ -18,6 +16,8 @@ This is the canonical reference for Richard Schreiber's IP, authority position, 
 
 Every file in this repository is built from confirmed source material. Nothing is invented. Nothing is inflated. Every definition, framework name, statistic, and biographical claim is traceable to Richard's published work, confirmed transcripts, or explicitly approved constructs.
 
+**That standard applies to this file.** The structure below describes what is in this repository right now — not what is planned. Directories that do not exist are not listed as though they do.
+
 ---
 
 ## Repository Structure
@@ -29,14 +29,33 @@ richard-schreiber-authority/
 ├── canonical_index.md         ← Single source of truth: locked fields, definitions, URLs
 ├── AUTHORITY-CANON.md         ← Complete Authority Canon™ — all nine sections
 ├── credibility.md             ← Full credibility inventory
-├── MANIFESTO.md               ← Pending — Stephen's deliverable
+├── MANIFESTO.md               ← The category manifesto
+├── governance.md              ← Rules governing every file in this repository
+├── canonical_citation.md      ← How to cite this work
+├── CITATION.cff               ← Machine-readable citation metadata
+├── CHANGELOG.md               ← Dated record of canonical changes
+├── LICENSE.md
 │
-├── /frameworks                ← One file per named framework (30+)
+├── /entity                    ← Entity declaration — the canonical record of the person
 ├── /avatars                   ← One file per ICA avatar (6)
-├── /tracks                    ← One file per content track (4)
+├── /tracks                    ← Canonical track index (4 tracks, 32 frameworks, status per framework)
 ├── /products                  ← TrialLift, SecureJustice, LawFirmAIExpert, RichardSchreiberAI
 └── /agents                    ← Routing instructions for Stephen, Maya, Isaac, Darwin
 ```
+
+---
+
+## Where the Frameworks Live
+
+**Framework files are not in this repository.** This is the hub. Published frameworks live in the spoke:
+
+**[github.com/richardschreiber/legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)**
+
+The canon names **32 frameworks across four tracks. 20 are published and verified live** in that repository. The remaining 12 are named in the canon and have not been published.
+
+[/tracks](tracks/) is the map: every framework, its track, and whether it is published, with a direct link to each one that is. A framework marked *Not yet published* has no canonical text, and no agent may reconstruct it from memory.
+
+Education and autism, journalism, and books are planned spokes. They do not exist yet and are recorded as planned, not as available.
 
 ---
 
@@ -63,14 +82,16 @@ News consumers, journalists, and public discourse participants navigating a worl
 
 ## Canonical Platforms
 
-| Platform | URL |
-|---|---|
-| Legal AI | lawfirmaiexpert.com |
-| AI Governance | securejustice.ai |
-| Trial Prep | triallift.com |
-| AI Clone | richardschreiberai.com |
-| Substack | https://substack.com/@aistrategistraschreiber |
-| LinkedIn | https://www.linkedin.com/in/richardschreiber/ |
+| Platform | URL | Status |
+|---|---|---|
+| Legal AI | lawfirmaiexpert.com | Live |
+| AI Governance | securejustice.ai | Live |
+| AI Clone | richardschreiberai.com | Live |
+| Trial Prep | triallift.com | **Beta — under development** |
+| Substack | https://substack.com/@aistrategistraschreiber | Live |
+| LinkedIn | https://www.linkedin.com/in/richardschreiber/ | Live |
+
+Product status is stated here and in [/products](products/), and it is binding. TrialLift is not generally available and is not represented as a shipped product.
 
 ---
 
@@ -80,6 +101,8 @@ News consumers, journalists, and public discourse participants navigating a worl
 
 **Then read:** `AUTHORITY-CANON.md` for the complete nine-section Authority Canon™.
 
-**Framework content:** Every named framework has its own file in `/frameworks`. Use the framework file as the source — do not reconstruct framework content from memory.
+**Framework content:** Every published framework has its own file in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke. Use the framework file as the source — do not reconstruct framework content from memory, and do not generate content for a framework marked unpublished in [/tracks](tracks/).
 
-**Routing:** See `/agents` for specific instructions for each expression agent.
+**Routing:** See [/agents](agents/) for specific instructions for each expression agent.
+
+**Verification:** An agent's confirmation that it saved a file is not evidence that the file exists. The published state of this repository is the evidence.
