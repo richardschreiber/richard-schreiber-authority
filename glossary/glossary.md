@@ -335,7 +335,9 @@ Every entry carries four fields:
 
 ### The Teaching Revolution Framework
 
-**Definition —** Three-stakeholder model for AI in K-12 education: Teachers (amplification and time liberation — average 7.8 hours per week reclaimed), Students (personalization and accessibility), Administrators (ROI, compliance, pilot program model). Central conviction: AI amplifies teacher impact; it does not replace it.
+**Definition —** Three-stakeholder model for AI in K-12 education: Teachers (amplification and time liberation — average 7.2 hours per week reclaimed), Students (personalization and accessibility), Administrators (ROI, compliance, pilot program model). Central conviction: AI amplifies teacher impact; it does not replace it.
+
+*⚠ **Recorded correction — August 5, 2026.** The canon stated this figure as **7.8** hours per week. That number, together with $2,700 in revenue and 470 minutes, is the statistic for solo and small-firm **lawyers** from Law Partner in Heels Ch. 1.4, published as "7.8 **billable** hours." Teachers do not bill hours. The Teaching Revolution You Can't Ignore contains no instance of 7.8, $2,700, or 470 — it reports **7.2 hours per week** from a district report in Educational Leadership, and a 5-10 hour range from AI-assisted grading. Corrected on Richard Schreiber's ruling. The legal figure is correct and unchanged in [Borrowed Time Wins](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md).*
 
 **Track:** 2 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** *The Teaching Revolution You Can't Ignore* (2025)
