@@ -419,13 +419,13 @@ Every entry carries four fields:
 
 ### The Three-Gear Flywheel
 
-**Definition —** From Hours to Horizons. Chapter 3.3 of Law Partner in Heels. Three gears: pricing and equal-pay strategies, client-magnet funnels, KPI dashboards and forecasting.
+**Definition —** From Hours to Horizons. Chapter 3.3 of Law Partner in Heels. Three gears: **Time-Liberation, Leverage, and Abundance** — named together in the book as the **T-L-A Flywheel**.
 
 **Track:** 3 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** *Law Partner in Heels: Billable Hours, Beautiful Life* (June 2025), Chapter 3.3
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/three-gear-flywheel.md)
 
-*⚠ **Open canonical question, recorded July 20, 2026 and not yet resolved:** the gear names as stated in the canon and the gear names as stated in Law Partner in Heels Chapter 3.3 have not been reconciled against each other. The canon wording above governs until Richard rules. No agent may substitute the book's wording, blend the two, or resolve the discrepancy on its own judgment. See [Pending Confirmation](#11--pending-confirmation).*
+*✅ **Resolved August 5, 2026 — recorded correction.** The canon stated the gears as "pricing and equal-pay strategies, client-magnet funnels, KPI dashboards and forecasting." Those are the components of [The 90-Day CEO Ascend Blueprint](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ninety-day-ceo-ascend-blueprint.md), Chapter 10 — the canon had merged two frameworks. Chapter 3.3 names each gear in its own subheading: Gear One — Time-Liberation, Gear Two — Leverage, Gear Three — Abundance; the book's AI-clone prompt for that chapter calls it the T-L-A Flywheel. Flagged as an open question July 20, 2026 and resolved by reading the published book. **The book governs; the canon was corrected to match it, not the reverse.***
 
 ---
 
@@ -756,11 +756,13 @@ The canon locks the **definition** of every term below but does not record **whe
 
 ---
 
-### B. Open canonical question — The Three-Gear Flywheel
+### B. Resolved — The Three-Gear Flywheel
 
-The gear names as stated in the canon and the gear names as stated in *Law Partner in Heels* Chapter 3.3 have not been reconciled. This was recorded as an open question on **July 20, 2026** and a Darwin ruling was requested. It has not been answered.
+**Closed August 5, 2026.** The gear names in the canon and in *Law Partner in Heels* Chapter 3.3 did not match. Flagged as an open question on **July 20, 2026**; a ruling was requested and never returned.
 
-The canon wording governs in this glossary until Richard rules. **This is the only known instance in the canon where a published book and the canon may state a locked field differently** — which is exactly why it is written down here rather than quietly harmonized.
+Resolved by reading the published chapter directly. The canon carried the **90-Day CEO Ascend Blueprint's** components as the Flywheel's gears. The Flywheel's actual gears are **Time-Liberation, Leverage, and Abundance.** The book governs; the canon and the published spoke file were both corrected to match it.
+
+This was the only known instance in the canon where a published book and the canon stated a locked field differently. It is now closed.
 
 ---
 
