@@ -1,5 +1,3 @@
-===FILE: canonical_index.md===
-
 # Canonical Index
 ## Richard Schreiber | Single Source of Truth for All Agents
 
