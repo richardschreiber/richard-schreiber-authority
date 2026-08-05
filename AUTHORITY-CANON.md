@@ -170,7 +170,7 @@ Six avatars. All share one characteristic: already trying to do the right thing;
 
 **Avatar 4 — The Autism Parent:** Child ages 8-22, relying on Medicaid, navigating IEP and therapy authorizations simultaneously. Needs five specific actions this week and the Services Cliff Framework named and mapped.
 
-**Avatar 5 — The Educator:** K-12 teacher or administrator, skeptical of previous technology initiatives. Needs proof AI implementation is done for them, not to them. Needs the 7.8 hours per week argument.
+**Avatar 5 — The Educator:** K-12 teacher or administrator, skeptical of previous technology initiatives. Needs proof AI implementation is done for them, not to them. Needs the 7.2 hours per week argument (district report, *Educational Leadership*) — not the 7.8 billable-hours lawyer figure.
 
 **Avatar 6 — The Authentic AI Voice Seeker:** Faith-adjacent professional suspicious of AI hype and fear equally. Needs the anti-replacement stance and the practitioner standard demonstrated through specificity.
 
