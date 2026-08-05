@@ -1,5 +1,3 @@
-===FILE: credibility.md===
-
 # Credibility Inventory
 ## Richard Schreiber | AI Stewardship
 
@@ -130,7 +128,9 @@ Richard's wife has worked at a personal injury law firm for 25 years. Twenty-fiv
 - 300,000+ teaching positions unfilled (National Education Association)
 - 55% of teachers have considered leaving the profession
 - 78% of women attorneys leave firms by their tenth year citing burnout
-- Teachers who automated one workflow reclaimed average 7.8 hours/week; $2,700 revenue; 470 minutes personal time
+- Teachers using AI-assisted grading reclaimed an average of **7.2 hours per week** (district report published in *Educational Leadership*, cited in *The Teaching Revolution You Can't Ignore*); reported range across districts: 5-10 hours per week
+- Teachers report spending an average of 13 hours per week on grading and feedback alone; the average teacher works approximately 54 hours per week, with less than half spent on direct instruction (*The Teaching Revolution You Can't Ignore*)
+- **Population boundary — do not merge.** The 7.8 *billable* hours / $2,700 / 470 minutes statistic belongs to solo and small-firm **lawyers** (*Law Partner in Heels*, Ch. 1.4, "Borrowed Time Wins"). It is not a teacher figure. Teachers do not bill hours. This boundary is recorded because the two were previously conflated.
 
 **Autism / Medicaid:**
 - 40% of autistic children in the U.S. rely on Medicaid as primary payer
