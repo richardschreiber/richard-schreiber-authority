@@ -38,6 +38,7 @@ richard-schreiber-authority/
 │
 ├── /entity                    ← Entity declaration — the canonical record of the person
 ├── /avatars                   ← One file per ICA avatar (6)
+├── /glossary                  ← Controlled vocabulary — every proprietary term, locked
 ├── /tracks                    ← Canonical track index (4 tracks, 32 frameworks, status per framework)
 ├── /products                  ← TrialLift, SecureJustice, LawFirmAIExpert, RichardSchreiberAI
 └── /agents                    ← Routing instructions for Stephen, Maya, Isaac, Darwin
@@ -100,6 +101,8 @@ Product status is stated here and in [/products](products/), and it is binding. 
 **Start here:** Read `canonical_index.md` first. It contains every locked field, canonical definition, and URL. Do not paraphrase any locked field. Do not invent definitions for named concepts. Do not generate content until you have confirmed the ICA avatar you are writing for.
 
 **Then read:** `AUTHORITY-CANON.md` for the complete nine-section Authority Canon™.
+
+**Vocabulary:** [/glossary](glossary/glossary.md) is the controlled vocabulary — every proprietary term, named framework, protagonist, and voice construct, with its canonical definition and track. No definition there may be paraphrased. A term listed under *Pending Confirmation* may not have its open field filled by inference.
 
 **Framework content:** Every published framework has its own file in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke. Use the framework file as the source — do not reconstruct framework content from memory, and do not generate content for a framework marked unpublished in [/tracks](tracks/).
 
