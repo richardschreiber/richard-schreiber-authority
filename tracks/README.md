@@ -19,11 +19,11 @@ This folder is the canonical map of those tracks. Each track file names every fr
 | Track | Population | Frameworks | Published |
 |---|---|---|---|
 | [Track 1 — AI Stewardship & Legal](track-1-ai-stewardship-and-legal.md) | General counsel, managing partners, legal services organizations | 15 | **13** |
-| [Track 2 — Education & Autism](track-2-education-and-autism.md) | K-12 administrators, teachers, parents of autistic students | 6 | **0** |
+| [Track 2 — Education & Autism](track-2-education-and-autism.md) | K-12 administrators, teachers, parents of autistic students | 6 | **6** |
 | [Track 3 — Women-Led Law Firms](track-3-women-led-law-firms.md) | Women partners and owners of small and mid-sized firms | 7 | **7** |
 | [Track 4 — Journalism](track-4-journalism.md) | Reporters, editors, and news operations in an AI information ecosystem | 4 | **0** |
 
-**32 frameworks named. 20 published and verified live.**
+**32 frameworks named. 26 published and verified live.**
 
 ---
 
@@ -33,9 +33,9 @@ Published framework files are in the **Legal AI Stewardship** spoke repository:
 
 **[github.com/richardschreiber/legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)**
 
-That repository holds all 20 currently published frameworks — the 13 live from Track 1 and all 7 from Track 3. It is the first spoke of a hub-and-spoke authority structure.
+That repository holds 20 of the 26 currently published frameworks — the 13 live from Track 1 and all 7 from Track 3. It is the first spoke of a hub-and-spoke authority structure.
 
-The second spoke is live: **[autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)** carries Track 2 — Education & Autism. It has the full repository structure and **no published frameworks**, and every file in it states that. Journalism and books are planned spokes and do not exist yet. They are described here as planned, not as available.
+The second spoke is live: **[autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)** carries Track 2 — Education & Autism. **All 6 of its frameworks were published on August 26, 2026**, each transcribed from audited source. Four of the six canonical definitions were corrected in the process, and each correction is recorded in its own framework file. Journalism and books are planned spokes and do not exist yet. They are described here as planned, not as available.
 
 ---
 
