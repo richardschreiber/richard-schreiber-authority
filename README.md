@@ -48,15 +48,16 @@ richard-schreiber-authority/
 
 ## Where the Frameworks Live
 
-**Framework files are not in this repository.** This is the hub. Published frameworks live in the spoke:
+**Framework files are not in this repository.** This is the hub. Published frameworks live in two spokes:
 
-**[github.com/richardschreiber/legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)**
+**[legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)** — Tracks 1 and 3, 20 frameworks
+**[autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)** — Track 2, 6 frameworks
 
-The canon names **32 frameworks across four tracks. 20 are published and verified live** in that repository. The remaining 12 are named in the canon and have not been published.
+The canon names **32 frameworks across four tracks. 26 are published and verified live.** The remaining 6 — all of Track 4, Journalism — are named in the canon and have not been published.
 
 [/tracks](tracks/) is the map: every framework, its track, and whether it is published, with a direct link to each one that is. A framework marked *Not yet published* has no canonical text, and no agent may reconstruct it from memory.
 
-The **education and autism spoke** is live at [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship). It carries the full repository structure — canonical index, governance, license, citation metadata — and **zero published frameworks**, which its own front page states plainly. Journalism and books are planned spokes. They do not exist yet and are recorded as planned, not as available.
+The **education and autism spoke** went live on August 26, 2026 with all six of its frameworks, each transcribed from audited source rather than generated from a definition. **That audit corrected four of the six canonical definitions**, and each correction is recorded in the framework file it affects — including a figure this repository had been publishing as a general average when the source supports it only as one district’s result. Journalism and books remain planned spokes. They do not exist yet and are recorded as planned, not as available.
 
 ---
 
