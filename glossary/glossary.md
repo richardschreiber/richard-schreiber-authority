@@ -319,9 +319,9 @@ Every entry carries four fields:
 
 ## 4 — NAMED FRAMEWORKS — TRACK 2: EDUCATION & AUTISM
 
-**6 frameworks named. 0 published.** Track record: [tracks/track-2-education-and-autism.md](../tracks/track-2-education-and-autism.md)
+**6 frameworks named. 6 published.** Track record: [tracks/track-2-education-and-autism.md](../tracks/track-2-education-and-autism.md) · Files: [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)
 
-**Every framework in this track is named in canon and unpublished.** The definitions below are the complete canonical record of each one. No agent may extend, expand, or reconstruct any of them beyond what appears here, and none may be described anywhere as available.
+**All six frameworks in this track were published on August 26, 2026**, each transcribed from audited source. **The audit corrected four of the six definitions below.** Where a definition carries a correction notice, the corrected reading in the linked framework file is authoritative over the definition text.
 
 ---
 
@@ -337,9 +337,11 @@ Every entry carries four fields:
 
 ### The Teaching Revolution Framework
 
-**Definition —** Three-stakeholder model for AI in K-12 education: Teachers (amplification and time liberation — average 7.2 hours per week reclaimed), Students (personalization and accessibility), Administrators (ROI, compliance, pilot program model). Central conviction: AI amplifies teacher impact; it does not replace it.
+**Definition —** Three-part model for AI in K-12 education — Teachers, Students, Administrators — resting on one conviction: AI amplifies teacher impact; it does not replace it. **File:** [teaching-revolution-framework.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/teaching-revolution-framework.md)
 
-*⚠ **Recorded correction — August 5, 2026.** The canon stated this figure as **7.8** hours per week. That number, together with $2,700 in revenue and 470 minutes, is the statistic for solo and small-firm **lawyers** from Law Partner in Heels Ch. 1.4, published as "7.8 **billable** hours." Teachers do not bill hours. The Teaching Revolution You Can't Ignore contains no instance of 7.8, $2,700, or 470 — it reports **7.2 hours per week** from a district report in Educational Leadership, and a 5-10 hour range from AI-assisted grading. Corrected on Richard Schreiber's ruling. The legal figure is correct and unchanged in [Borrowed Time Wins](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md).*
+*⚠ **Recorded correction — August 5, 2026.** The canon stated this figure as **7.8** hours per week. That number, together with $2,700 in revenue and 470 minutes, is the statistic for solo and small-firm **lawyers** from Law Partner in Heels Ch. 1.4, published as "7.8 **billable** hours." Teachers do not bill hours. The Teaching Revolution You Can't Ignore contains no instance of 7.8, $2,700, or 470 — it reports **7.2 hours per week** from a district report in Educational Leadership, and a 5-10 hour range from AI-assisted grading. Corrected on Richard Schreiber's ruling. The legal figure is correct and unchanged in [Borrowed Time Wins](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md).
+
+*⚠ **Recorded correction — August 26, 2026.** A full read of the source establishes that **7.2 is not a general average either.** It appears exactly once in the book, as one district's case-study result — Fulton County, Georgia, per a district report in Educational Leadership. The book's own repeated figure is **5-10 hours per week**, stated three times across two chapters, none of them carrying a named source. The three-stakeholder structure is also **editorial synthesis, not a structure the book names.** See the framework file.*
 
 **Track:** 2 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** *The Teaching Revolution You Can't Ignore* (2025)
@@ -351,7 +353,9 @@ Every entry carries four fields:
 
 ### The Phased AI Adoption Model
 
-**Definition —** Five-phase implementation approach for schools: identify specific pain point, pilot in 1-2 classrooms for 6-8 weeks, gather teacher feedback and refine, scale with evidence and measurable metrics, continuous review and professional development.
+**Definition —** Five-part sequence for bringing AI into a school without triggering the resistance that kills it: establish a clear vision, build educator buy-in, roll out in phases through a pilot, ensure compliance, and continuously measure success. **File:** [phased-ai-adoption-model.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/phased-ai-adoption-model.md)
+
+*⚠ **Recorded correction — August 26, 2026.** The prior definition ("identify specific pain point, pilot in 1-2 classrooms for 6-8 weeks…") **dropped two of the book's own five parts** — educator buy-in and compliance — and **hardened one school's anecdote into a rule.** "1-2 classrooms for 6-8 weeks" appears nowhere in the book as guidance; the numbers come from the Maple Grove Elementary example. The book's instruction specifies no classroom count and no duration. Source is Ch. 1 §1.4, not Ch. 2.*
 
 **Track:** 2 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** Not recorded in canon — see [Pending Confirmation](#11--pending-confirmation)
@@ -361,7 +365,9 @@ Every entry carries four fields:
 
 ### The Ethical AI Framework for K-12
 
-**Definition —** Four-component framework: data privacy compliance (FERPA, COPPA, CIPA), bias mitigation, teacher-first controls, transparency to all stakeholders.
+**Definition —** Three ethical pillars govern AI in a school — fairness, transparency, and accountability — implemented through four institution-wide policy areas: data privacy and protection, bias and fairness measures, human oversight protocols, and access and equity guidelines. **File:** [ethical-ai-framework-k12.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/ethical-ai-framework-k12.md)
+
+*⚠ **Recorded correction — August 26, 2026.** The prior definition merged two different structures and got one item wrong. The book's primary structure is **three pillars**, not four components. A genuine four-item list exists — the institution-wide policy areas above — but its fourth item is **"access and equity guidelines," not "transparency to all stakeholders."** And **"teacher-first controls" is not Richard Schreiber's phrase**: it appears once in the 770KB source, in the Foreword written by Peter Swain. The concept is thoroughly present in his own prose as human oversight and teacher agency.*
 
 **Track:** 2 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** Not recorded in canon — see [Pending Confirmation](#11--pending-confirmation)
@@ -381,7 +387,9 @@ Every entry carries four fields:
 
 ### The Audit Protection Framework
 
-**Definition —** Practical framework for autism families during OIG audit season: verify provider authorization status, review Medicaid authorization details, contact state Medicaid office if services interrupted, document therapy plan and medical necessity evidence now.
+**Definition —** A five-step protocol for autism families to protect therapy access during federal OIG audit season: verify your provider's Medicaid billing authorization status, know your child's own authorization details, get state-specific guidance from your autism society, contact the state Medicaid office immediately if services are interrupted, and document the therapy plan and medical necessity evidence now. **File:** [audit-protection-framework.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/audit-protection-framework.md)
+
+*⚠ **Recorded correction — August 26, 2026.** The prior definition recorded **four** steps. The source states **five** — it omitted "Ask your state's autism society for guidance on how the current OIG audit process is affecting providers in your specific state."*
 
 **Track:** 2 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** Not recorded in canon — see [Pending Confirmation](#11--pending-confirmation)
@@ -793,7 +801,7 @@ This file is a locked-fields document. It is governed by [governance.md](../gove
 
 **For agents:** No definition in this file may be paraphrased, shortened, or rewritten in any downstream output. A framework marked *Not yet published* has no canonical text beyond the definition recorded here, and may not be expanded, exemplified, or reconstructed from memory. A term listed under Pending Confirmation may not have its open field filled by inference.
 
-**Framework count reconciliation:** 32 frameworks named across four tracks. 20 published and verified live in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke — 13 from Track 1 and all 7 from Track 3. This glossary's counts match [tracks/README.md](../tracks/README.md) exactly, and every published link above was verified live against the repository at the time of commit.
+**Framework count reconciliation:** 32 frameworks named across four tracks. **26 published and verified live** — 20 in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke (13 from Track 1, all 7 from Track 3) and all 6 of Track 2 in the [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship) spoke. The remaining 6 unpublished are the 2 named-but-unpublished Track 1 frameworks and all 4 of Track 4, Journalism. This glossary's counts match [tracks/README.md](../tracks/README.md).
 
 ---
 
