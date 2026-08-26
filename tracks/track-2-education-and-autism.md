@@ -8,9 +8,9 @@
 
 **No framework in this track has been published yet.**
 
-The six frameworks below are named in the canon. Their full content exists in Richard Schreiber's working material and has not been committed to a public repository. The autism and education spoke does not exist yet.
+The six frameworks below are named in the canon. Their full content exists in Richard Schreiber's working material and has not been committed to a public repository. The spoke repository [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship) is live and fully structured, and it contains no framework files.
 
-This file is here so the record is complete while that spoke is being built, rather than complete only after it launches. Nothing in this track may be described anywhere as available.
+This file is here so the record is complete while that spoke is being filled, rather than complete only after it launches. Nothing in this track may be described anywhere as available.
 
 ---
 
@@ -67,7 +67,9 @@ An invented education framework carries the same defect as an invented citation:
 
 ## Planned
 
-An autism and education spoke repository is planned, following the same structure as [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship). It does not exist yet and is recorded here as planned, not as available.
+The autism and education spoke repository, [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship), went live on August 26, 2026, following the same structure as [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) — README, canonical index, governance, license, and citation metadata carrying ORCID `0009-0002-5409-9643`.
+
+**Its `/frameworks` folder is empty, and every file in it says so.** The repository was published in the unpublished state on purpose: the canon named six frameworks in this track while the public record showed nothing at all, which made the gap invisible. It is now visible, dated, and attributable. Publication of the frameworks themselves waits on audited source material and nothing else.
 
 ---
 
