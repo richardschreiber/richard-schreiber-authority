@@ -33,7 +33,9 @@ Published framework files are in the **Legal AI Stewardship** spoke repository:
 
 **[github.com/richardschreiber/legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)**
 
-That repository holds all 20 currently published frameworks — the 13 live from Track 1 and all 7 from Track 3. It is the first spoke of a hub-and-spoke authority structure. Education and autism, journalism, and books are planned spokes and do not exist yet. They are described here as planned, not as available.
+That repository holds all 20 currently published frameworks — the 13 live from Track 1 and all 7 from Track 3. It is the first spoke of a hub-and-spoke authority structure.
+
+The second spoke is live: **[autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)** carries Track 2 — Education & Autism. It has the full repository structure and **no published frameworks**, and every file in it states that. Journalism and books are planned spokes and do not exist yet. They are described here as planned, not as available.
 
 ---
 
