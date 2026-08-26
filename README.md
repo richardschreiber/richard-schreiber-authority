@@ -56,7 +56,7 @@ The canon names **32 frameworks across four tracks. 20 are published and verifie
 
 [/tracks](tracks/) is the map: every framework, its track, and whether it is published, with a direct link to each one that is. A framework marked *Not yet published* has no canonical text, and no agent may reconstruct it from memory.
 
-Education and autism, journalism, and books are planned spokes. They do not exist yet and are recorded as planned, not as available.
+The **education and autism spoke** is live at [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship). It carries the full repository structure — canonical index, governance, license, citation metadata — and **zero published frameworks**, which its own front page states plainly. Journalism and books are planned spokes. They do not exist yet and are recorded as planned, not as available.
 
 ---
 
