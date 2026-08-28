@@ -147,7 +147,7 @@ Every entry carries four fields:
 
 ## 3 — NAMED FRAMEWORKS — TRACK 1: AI STEWARDSHIP & LEGAL
 
-**15 frameworks named. 13 published.** Track record: [tracks/track-1-ai-stewardship-and-legal.md](../tracks/track-1-ai-stewardship-and-legal.md)
+**13 frameworks named. 13 published — this track is complete.** Track record: [tracks/track-1-ai-stewardship-and-legal.md](../tracks/track-1-ai-stewardship-and-legal.md)
 
 ---
 
@@ -293,27 +293,13 @@ Every entry carries four fields:
 
 ---
 
-### The AI IT in a Box Framework
+### Retired — August 28, 2026
 
-**Definition —** SecureJustice consortium's end-to-end solution for legal services organizations: cybersecurity + AI governance + agentic automation + InfoSec assessment delivered through a four-partner swim-lane model in nine phases, beginning with a paid Clarity Audit.
+**Two entries were removed from this section:** *The AI IT in a Box Framework* and *The Nine-Phase Deployment Architecture*.
 
-**Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai — consortium engagement material  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** *Not yet published*
+Both were carried here since August 5, 2026 as *Not yet published*, with definitions and an assigned platform of origin. When Richard Schreiber was asked to source them, he did not recognize either one. A named framework no one can trace to an engagement, a document, or a date is not an unpublished framework. It is a name, and this glossary does not hold names.
 
-*Named in canon. No framework file exists. It may not be summarized, described in detail, or reconstructed from memory by any agent.*
-
----
-
-### The Nine-Phase Deployment Architecture
-
-**Definition —** SecureJustice's structured engagement model: Phase 0 Clarity Audit ($2,500–$5,000) through monthly retainer and ongoing agentic deployment. Bespoke now; productized SaaS destination.
-
-**Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai — consortium engagement material  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** *Not yet published*
-
-*Named in canon. No framework file exists. It may not be summarized, described in detail, or reconstructed from memory by any agent.*
+**Their former definitions are not reproduced here and may not be reconstructed by any agent.** The Track 1 count moved from 15 named to 13, and the canonical total from 32 to 30. The published count is unchanged — neither had a file. The ruling is recorded in [tracks/track-1-ai-stewardship-and-legal.md](../tracks/track-1-ai-stewardship-and-legal.md).
 
 ---
 
@@ -640,14 +626,47 @@ Every entry carries four fields:
 
 ---
 
-### Autism Advocacy Foundation
+### Autism Innovation Community Foundation
 
-**Definition —** New York City-based foundation founded by Richard. Organized the NYC Autism Tech, Innovation, and Careers Expo. Ongoing advocacy work.
+**Definition —** The 501(c)(3) public charity co-founded by **Richard Schreiber and Maggie Schreiber**, headquartered in New York City. Delaware nonprofit corporation, State File Number 7288941, incorporated February 9, 2023. Federal EIN 92-2269792. IRS determination letter dated February 17, 2023, exemption effective February 9, 2023, classified 509(a)(2) — contributions are deductible. Principal address 147 E 97th Street, Suite 2W, New York, NY 10029. Organizer of The New York Autism Tech, Innovation and Careers Expo.
 
-**Track:** 2 · **Source:** AUTHORITY-CANON.md Section 7 and Section 8
-**First appearance:** Not recorded in canon — see [Pending Confirmation](#11--pending-confirmation)
+**Track:** 2 · **Source:** Foundation incorporation and IRS determination documents, held by Richard Schreiber
+**First appearance:** Incorporated February 9, 2023
 
-*The canon records the foundation's activity but does not record a locked legal name. Agents must not invent one.*
+*⚠ Recorded correction — August 28, 2026.* This entry previously read **"Autism Advocacy Foundation — New York City-based foundation founded by Richard,"** and carried the note *"the canon records the foundation's activity but does not record a locked legal name. Agents must not invent one."* The legal name was located in the foundation's own incorporation and determination documents. It is now locked. **Maggie Schreiber is recorded as co-founder on Richard Schreiber's instruction; the prior entry named him alone.**
+
+---
+
+### The New York Autism Tech, Innovation and Careers Expo
+
+**Definition —** The public event organized by the Autism Innovation Community Foundation, held **October 22, 2022**, attended by **200 to 300 people**.
+
+**Track:** 2 · **Source:** Richard Schreiber, direct ruling, August 26, 2026
+**First appearance:** October 22, 2022
+
+*⚠ Recorded correction — August 28, 2026.* **Eight variant names for this event appeared across Richard Schreiber's own working documents**, including "NYC Autism Tech, Innovation, and Careers Expo" as previously recorded in this glossary and in credibility.md. The name, date, and attendance figure above are the only canonical ones. **All variants are retired.** Prior documents also disagreed on whether the event had occurred — one manifesto spoke of it in the past tense while a business plan described it as forthcoming. **It occurred. October 22, 2022.**
+
+---
+
+### Autism Innovation Community Network
+
+**Definition —** A planned management information system for autism care. **It was never built.**
+
+**Track:** 2 · **Source:** Richard Schreiber, direct ruling, August 26, 2026
+**Status:** *Planned, not completed*
+
+*Recorded here so that no agent lists it as an asset, a product, a framework, or an operating program.* It is not any of those. It was an intention, and it is recorded as one.
+
+---
+
+### Autism Connection
+
+**Definition —** *None. Unverified term.*
+
+**Track:** Unassigned · **Source:** No source located
+**Status:** *Orphan — flagged, not canonical*
+
+*This name appeared in prior working documents. Richard Schreiber does not recognize its origin and no source has been located.* It carries no definition, it is not an entity, and it may not be used in any downstream output until it is sourced or retired.
 
 ---
 
@@ -765,9 +784,11 @@ The canon locks the **definition** of every term below but does not record **whe
 
 **Track 4 frameworks:** The Sticky Note Test
 
-**Other:** Marcus Burgoff · Autism Advocacy Foundation (locked legal name not recorded)
+**Other:** Marcus Burgoff · Autism Connection (orphan term — no source located)
 
-**Closed August 5, 2026 — all 15 Track 1 frameworks.** Each now carries a platform of origin assigned by Richard under the rule recorded in [Section 3](#3--named-frameworks--track-1-ai-stewardship--legal). What remains open for Track 1 is narrower and may never be recoverable: the specific post, issue, or date on each platform. No entry claims one.
+*Resolved August 28, 2026 and removed from this list: the foundation's locked legal name.* It is **Autism Innovation Community Foundation**, sourced from its incorporation and IRS determination documents and now recorded in [canonical_index.md](../canonical_index.md).
+
+**Closed August 5, 2026 — all Track 1 frameworks.** Each now carries a platform of origin assigned by Richard under the rule recorded in [Section 3](#3--named-frameworks--track-1-ai-stewardship--legal). What remains open for Track 1 is narrower and may never be recoverable: the specific post, issue, or date on each platform. No entry claims one.
 
 ---
 
@@ -801,7 +822,7 @@ This file is a locked-fields document. It is governed by [governance.md](../gove
 
 **For agents:** No definition in this file may be paraphrased, shortened, or rewritten in any downstream output. A framework marked *Not yet published* has no canonical text beyond the definition recorded here, and may not be expanded, exemplified, or reconstructed from memory. A term listed under Pending Confirmation may not have its open field filled by inference.
 
-**Framework count reconciliation:** 32 frameworks named across four tracks. **26 published and verified live** — 20 in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke (13 from Track 1, all 7 from Track 3) and all 6 of Track 2 in the [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship) spoke. The remaining 6 unpublished are the 2 named-but-unpublished Track 1 frameworks and all 4 of Track 4, Journalism. This glossary's counts match [tracks/README.md](../tracks/README.md).
+**Framework count reconciliation:** 30 frameworks named across four tracks. **26 published and verified live** — 20 in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke (13 from Track 1, all 7 from Track 3) and all 6 of Track 2 in the [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship) spoke. The remaining 4 unpublished are all of Track 4, Journalism. **Corrected August 28, 2026:** the named total was 32 until two unsourced Track 1 frameworks were retired. This glossary's counts match [tracks/README.md](../tracks/README.md).
 
 ---
 
