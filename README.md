@@ -39,7 +39,7 @@ richard-schreiber-authority/
 ├── /entity                    ← Entity declaration — the canonical record of the person
 ├── /avatars                   ← One file per ICA avatar (6)
 ├── /glossary                  ← Controlled vocabulary — every proprietary term, locked
-├── /tracks                    ← Canonical track index (4 tracks, 32 frameworks, status per framework)
+├── /tracks                    ← Canonical track index (4 tracks, 30 frameworks, status per framework)
 ├── /products                  ← TrialLift, SecureJustice, LawFirmAIExpert, RichardSchreiberAI
 └── /agents                    ← Routing instructions for Stephen, Maya, Isaac, Darwin
 ```
@@ -53,7 +53,9 @@ richard-schreiber-authority/
 **[legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)** — Tracks 1 and 3, 20 frameworks
 **[autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)** — Track 2, 6 frameworks
 
-The canon names **32 frameworks across four tracks. 26 are published and verified live.** The remaining 6 — all of Track 4, Journalism — are named in the canon and have not been published.
+The canon names **30 frameworks across four tracks. 26 are published and verified live.** The remaining 4 — all of Track 4, Journalism — are named in the canon and have not been published.
+
+**Recorded correction, August 28, 2026:** the named total was 32 until two Track 1 frameworks were retired for lack of any traceable source. See [tracks/track-1-ai-stewardship-and-legal.md](tracks/track-1-ai-stewardship-and-legal.md).
 
 [/tracks](tracks/) is the map: every framework, its track, and whether it is published, with a direct link to each one that is. A framework marked *Not yet published* has no canonical text, and no agent may reconstruct it from memory.
 
