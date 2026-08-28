@@ -8,6 +8,43 @@ Format: Version | Date | Description
 
 ---
 
+## [1.1.0] — 2026-08-28
+
+**Canon corrections executed on Richard Schreiber's rulings of August 26, 2026.**
+
+### Retired
+
+- **The AI IT in a Box Framework** and **The Nine-Phase Deployment Architecture** removed from Track 1 and from the glossary. Richard Schreiber did not recognize either name when asked to source it. Neither had a framework file. Their former glossary definitions are not reproduced anywhere and may not be reconstructed.
+- **Canonical total: 32 frameworks named → 30. Published: 26, unchanged.** Track 1 is now 13 named, 13 published — complete.
+- **Eight variant names** for the foundation's public event retired in favor of one.
+
+### Locked
+
+- **Autism Innovation Community Foundation** — legal name, co-founders, Delaware incorporation (State File Number 7288941, February 9, 2023), EIN 92-2269792, IRS determination February 17, 2023, 509(a)(2) classification, principal address. The glossary previously recorded that no locked legal name existed and forbade agents from inventing one; the name was found in the foundation's own documents, not inferred.
+- **Maggie Schreiber recorded as co-founder** of the foundation, on Richard Schreiber's instruction. Prior files named Richard alone. Recorded in `canonical_index.md`, `credibility.md`, `entity/richard-schreiber.md`, `AUTHORITY-CANON.md`, and the glossary.
+- **The New York Autism Tech, Innovation and Careers Expo — October 22, 2022 — 200 to 300 attended.** Prior documents disagreed on the name, and on whether the event had happened at all: one manifesto spoke of it in the past tense while a business plan called it forthcoming. It occurred.
+
+### Recorded, not published as assets
+
+- **Autism Innovation Community Network** — a planned management information system for autism care that was never built. Recorded as planned-not-completed so no agent lists it as a product or program.
+- **Autism Connection** — orphan term, no source located, no definition. Flagged; may not be used until sourced or retired.
+
+### Removed — family privacy
+
+**The name of the college and city Richard Schreiber's daughter attends was found live in three files** — `entity/richard-schreiber.md`, `AUTHORITY-CANON.md`, and `credibility.md` — and removed from all three.
+
+The standing rule adopted on August 26, 2026 protected her *name*. This is the same exposure reached by a different key: a named school in a named city identifies a 19-year-old as precisely as a name does. **The rule is restated in expanded form: her name, her institution, her program, and her location are not published in this repository or in any work derived from it.** Her age and the fact of her diagnosis remain, with her father's consent. Nothing further does.
+
+### Files changed
+
+`README.md` · `AUTHORITY-CANON.md` · `canonical_index.md` · `credibility.md` · `entity/richard-schreiber.md` · `glossary/glossary.md` · `tracks/README.md` · `tracks/track-1-ai-stewardship-and-legal.md`
+
+### Not published here
+
+Two adverse administrative facts about the foundation were located in its documentation and are **deliberately not published in this public repository**: a 2024 Delaware charter forfeiture that was cured and revived the same year, and an open New York Attorney General Charities Bureau registration item. Neither bears on any authority claim this repository makes. Both are recorded in Richard Schreiber's private corrections log and are his to act on. **This repository publishes nothing false. It is not obliged to publish everything true.**
+
+---
+
 ## [1.0.0] — 2026
 
 ### Established
@@ -80,7 +117,7 @@ Format: Version | Date | Description
 
 - The Five Next Steps Model
 
-**Frameworks installed — Track 3: Journalism (4 frameworks)**
+**Frameworks installed — Track 3: Journalism (4 frameworks)**  *(renumbered Track 4 in the canonical order; see tracks/README.md)*
 
 - The Parallel Count
 
@@ -94,9 +131,9 @@ Format: Version | Date | Description
 
 - SecureJustice Consortium — four-partner model
 
-- Nine-Phase Deployment Architecture
+- Nine-Phase Deployment Architecture  *(retired 2026-08-28 — see [1.1.0])*
 
-- AI IT in a Box Framework
+- AI IT in a Box Framework  *(retired 2026-08-28 — see [1.1.0])*
 
 - TrialLift Platform Architecture
 
