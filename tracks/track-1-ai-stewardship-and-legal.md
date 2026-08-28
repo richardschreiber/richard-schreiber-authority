@@ -1,6 +1,6 @@
 # Track 1 — AI Stewardship & Legal
 
-## Canonical Track Record | 15 frameworks | **13 published**
+## Canonical Track Record | 13 frameworks | **13 published — this track is complete**
 
 ---
 
@@ -35,16 +35,23 @@ Track 1 is the discipline that closes that gap: written accountability, document
 | [The Low-Budget Cyber Hygiene Framework](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/low-budget-cyber-hygiene.md) | **Published** |
 | [The 30-Day General Counsel Action Plan](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/thirty-day-gc-action-plan.md) | **Published** |
 | [The TrialLift Framework](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/triallift-framework.md) | **Published** |
-| The AI IT in a Box Framework | *Not yet published* |
-| The Nine-Phase Deployment Architecture | *Not yet published* |
 
 ---
 
-## Not Yet Published
+## Recorded Correction — August 28, 2026
 
-**The AI IT in a Box Framework** and **The Nine-Phase Deployment Architecture** are named in the canon and are not yet published. They are listed here so the canon and the repository agree with each other, and so that no one — human or agent — reads their absence as an oversight or fills the gap by reconstructing them.
+**Two frameworks were removed from this track by Richard Schreiber's ruling.**
 
-Neither framework may be summarized, described, or generated from memory. They will be published from audited source or not at all.
+| Removed | Ruling |
+|---|---|
+| The AI IT in a Box Framework | *"I don't recall."* No source, no origin document, no engagement it can be traced to. Retired from the canon. |
+| The Nine-Phase Deployment Architecture | *"I don't recall."* Same finding. Retired from the canon. |
+
+Both had been carried in the canon as *named but not yet published* since August 5, 2026. When Richard was asked to source them he did not recognize either one. A framework no one can source is not an unpublished framework — it is a name.
+
+**This is recorded rather than silently deleted** so that anyone who read the earlier count can see what changed and why. The canonical total moved from **32 frameworks named** to **30**, with 26 published. The published count did not change: neither framework had a file.
+
+Nothing in this repository may reintroduce either name, and no agent may reconstruct either one from the definitions that formerly appeared in the glossary.
 
 ---
 
