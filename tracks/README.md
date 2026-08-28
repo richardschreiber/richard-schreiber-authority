@@ -18,12 +18,14 @@ This folder is the canonical map of those tracks. Each track file names every fr
 
 | Track | Population | Frameworks | Published |
 |---|---|---|---|
-| [Track 1 — AI Stewardship & Legal](track-1-ai-stewardship-and-legal.md) | General counsel, managing partners, legal services organizations | 15 | **13** |
+| [Track 1 — AI Stewardship & Legal](track-1-ai-stewardship-and-legal.md) | General counsel, managing partners, legal services organizations | 13 | **13** |
 | [Track 2 — Education & Autism](track-2-education-and-autism.md) | K-12 administrators, teachers, parents of autistic students | 6 | **6** |
 | [Track 3 — Women-Led Law Firms](track-3-women-led-law-firms.md) | Women partners and owners of small and mid-sized firms | 7 | **7** |
 | [Track 4 — Journalism](track-4-journalism.md) | Reporters, editors, and news operations in an AI information ecosystem | 4 | **0** |
 
-**32 frameworks named. 26 published and verified live.**
+**30 frameworks named. 26 published and verified live.**
+
+The count moved from 32 to 30 on August 28, 2026. Two Track 1 frameworks — *The AI IT in a Box Framework* and *The Nine-Phase Deployment Architecture* — were retired from the canon when Richard Schreiber could not source either one. The correction is recorded in [track-1-ai-stewardship-and-legal.md](track-1-ai-stewardship-and-legal.md).
 
 ---
 
