@@ -45,7 +45,7 @@ At 21, days before graduating Emerson College, his appendix burst. He survived. 
 
 In his late twenties, cocaine addiction pulled him close to death a second time. Through faith, he found sobriety. That was more than 30 years ago.
 
-Then came his daughter's elementary school graduation. She sat alone in tears and said: *"Daddy, for six years, nobody wanted to be my friend."* He vowed on the spot to become her fiercest advocate. Today, at 19, she is an artist and animator attending the Maryland Institute College of Art in Baltimore — independently, thriving.
+Then came his daughter's elementary school graduation. She sat alone in tears and said: *"Daddy, for six years, nobody wanted to be my friend."* He vowed on the spot to become her fiercest advocate. Today, at 19, she is an artist and animator studying independently at art college — and thriving. *(Her name, her school, and her location are not published. Standing rule, adopted on Richard Schreiber's instruction; see canonical_index.md.)*
 
 In 2024, he turned it over completely to Jesus Christ. Not as a performance. As the daily, load-bearing foundation of every decision he makes.
 
@@ -98,8 +98,6 @@ AI Stewardship is not a niche within the AI consulting market. It is a new profe
 - The Low-Budget Cyber Hygiene Framework
 - The 30-Day General Counsel Action Plan
 - The TrialLift Framework
-- The AI IT in a Box Framework
-- The Nine-Phase Deployment Architecture
 
 ### TRACK 2 — EDUCATION & AUTISM
 
@@ -200,7 +198,7 @@ Six avatars. All share one characteristic: already trying to do the right thing;
 
 **40+ years in technology.** Wall Street software. Fortune 100 clients. Public sector. New York City 42+ years. Age 67.
 
-**Entities Founded:** RAS Consulting Services LLC, SecureJustice.ai, LawFirmAIExpert.com, TrialLift, RichardSchreiberAI.com, Autism Advocacy Foundation NYC.
+**Entities Founded:** RAS Consulting Services LLC, SecureJustice.ai, LawFirmAIExpert.com, TrialLift, RichardSchreiberAI.com, Autism Innovation Community Foundation (co-founded with Maggie Schreiber; Delaware nonprofit corporation, EIN 92-2269792, 501(c)(3) public charity).
 
 **Seven Books:** The Faith-Based Guide to Using AI (bestseller), Autism Care Revolution (bestseller), The Teaching Revolution You Can't Ignore (2025, foreword Peter Swain), Law Partner in Heels (June 2025), Sinful Love (fiction), Isabella Marcus series Blood & Canvas Book 3 (active draft), The Decline of American Journalism (in progress).
 
@@ -208,7 +206,7 @@ Six avatars. All share one characteristic: already trying to do the right thing;
 
 **Statistical Anchors:** $145,000 Q1 2026 AI sanctions. $110,000 largest single hallucination sanction. 1,348 documented AI hallucination cases worldwide. 87% of GCs use AI daily. 40% profit margins at AI-native firms. 423% North Carolina autism Medicaid spending increase.
 
-**Personal:** 30+ years sober. Daughter 19, autistic, attending MICA Baltimore independently. Personal cybersecurity breach. Married 20 years. Faith as daily load-bearing foundation.
+**Personal:** 30+ years sober. Daughter 19, autistic, studying art independently — school and location not published, standing rule. Personal cybersecurity breach. Married 20 years to Maggie Schreiber, co-founder of the Autism Innovation Community Foundation. Faith as daily load-bearing foundation.
 
 ---
 
