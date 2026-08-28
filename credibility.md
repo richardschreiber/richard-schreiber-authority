@@ -34,7 +34,7 @@ Personal memory of JFK assassination coverage, Watergate hearings, Nixon's resig
 - **LawFirmAIExpert.com** — Legal AI Monday content platform for managing partners of small and mid-sized law firms
 - **TrialLift** — proprietary trial preparation platform; citation validation, hallucination quarantine, predictive trial strategy
 - **RichardSchreiberAI.com** — AI clone portal built on Delphi.ai; trained on Richard's books and public work
-- **Autism Advocacy Foundation** — New York City-based; organized the NYC Autism Tech, Innovation, and Careers Expo
+- **Autism Innovation Community Foundation** — 501(c)(3) public charity, co-founded with **Maggie Schreiber**; Delaware nonprofit corporation (State File Number 7288941, incorporated February 9, 2023), EIN 92-2269792, IRS determination February 17, 2023, classified 509(a)(2); principal address 147 E 97th Street, Suite 2W, New York, NY 10029. Organized **The New York Autism Tech, Innovation and Careers Expo**, October 22, 2022, attended by 200 to 300 people.
 
 ---
 
@@ -153,7 +153,7 @@ Richard's wife has worked at a personal injury law firm for 25 years. Twenty-fiv
 Recovered from cocaine addiction in his late twenties. More than 30 years of sobriety as of 2026. Teaches abundance from inside the daily battle against scarcity — not from the other side of it.
 
 **Autism advocacy — 19 years of lived experience**
-Daughter, now 19, is autistic. Navigated IEPs, therapy authorizations, Medicaid denials, insurance appeals, school transitions, bullying, and the services cliff firsthand for 19 years. Today she is an artist and animator attending the Maryland Institute College of Art in Baltimore — independently, thriving.
+Daughter, now 19, is autistic. Navigated IEPs, therapy authorizations, Medicaid denials, insurance appeals, school transitions, bullying, and the services cliff firsthand for 19 years. Today she is an artist and animator studying independently at art college — and thriving. *(Her name, her school, and her location are not published. Standing rule; see canonical_index.md.)*
 
 **Personal cybersecurity breach**
 Got hacked. Using his own breach as a testimonial for SecureJustice.ai. Not theory — lived operational experience of exactly what he advises clients to prevent.
