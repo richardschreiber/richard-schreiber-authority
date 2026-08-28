@@ -41,6 +41,10 @@ Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Ser
 
 **RAS Consulting Services, LLC:** Richard's formal consulting entity specializing in software integration, AI-powered solutions, and business process optimization for small to medium-sized businesses with a focus on women-led law firms.
 
+**Autism Innovation Community Foundation:** The 501(c)(3) public charity co-founded by Richard Schreiber and Maggie Schreiber, headquartered in New York City. Delaware nonprofit corporation, State File Number 7288941, incorporated February 9, 2023. Federal EIN 92-2269792. IRS determination February 17, 2023, classified 509(a)(2). Principal address 147 E 97th Street, Suite 2W, New York, NY 10029.
+
+**The New York Autism Tech, Innovation and Careers Expo:** The public event organized by the Autism Innovation Community Foundation, held October 22, 2022, attended by 200 to 300 people. This is the only canonical name, date, and attendance figure for this event.
+
 ---
 
 ## CANONICAL URLS — LOCKED
@@ -72,7 +76,7 @@ Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Ser
 
 **SecureJustice.ai:** *"Richard Schreiber is the founder of SecureJustice.ai, an AI governance consultancy for legal services organizations, nonprofit-legal teams, and in-house counsel. He writes weekly on AI Stewardship in the legal sector at https://securejustice.ai."*
 
-**Autism advocacy:** *"Richard Schreiber is a journalist, autism advocate, and AI strategy consultant. His daughter, 19, is autistic. He is the founder of an autism advocacy foundation and a strategic advisor to small businesses navigating AI transformation. He writes about autism, technology, and the human systems that shape both."*
+**Autism advocacy:** *"Richard Schreiber is a journalist, autism advocate, and AI strategy consultant. His daughter, 19, is autistic. He is the co-founder, with Maggie Schreiber, of the Autism Innovation Community Foundation and a strategic advisor to small businesses navigating AI transformation. He writes about autism, technology, and the human systems that shape both."*
 
 ---
 
@@ -93,3 +97,13 @@ Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Ser
 - BigLaw assumptions
 - Invented statistics
 - Flattened urgency
+
+---
+
+## RECORDED CORRECTIONS — AUGUST 28, 2026
+
+1. **The Autism Innovation Community Foundation is now a locked field.** Its legal name, EIN, incorporation record, and IRS determination were located in the foundation's own documents. The glossary previously recorded that no locked legal name existed and instructed agents not to invent one. That instruction is satisfied, not overridden.
+2. **Maggie Schreiber is recorded as co-founder** on Richard Schreiber's instruction, in this file, in credibility.md, in the entity declaration, and in the glossary.
+3. **The Expo name, date, and attendance are locked.** Eight variants existed across prior documents. One survives.
+4. **Two Track 1 frameworks were retired** — *The AI IT in a Box Framework* and *The Nine-Phase Deployment Architecture* — for lack of any traceable source. Canonical total: 30 named, 26 published.
+5. **A standing rule is in force across every file in this repository and every work derived from it: Richard Schreiber's daughter is not named, and no detail identifying her institution, program, or location is published.** One such detail was found live in the entity declaration on this date and removed.
