@@ -46,7 +46,7 @@ This repository governs the canonical expression of AI Stewardship across three 
 
 - Journalism & Public Truth
 
-It does not govern the operational delivery of consulting services, product roadmaps for TrialLift or SecureJustice.ai, or the internal working documents of RAS Consulting Services LLC. Those are governed by separate operational documents.
+It does not govern the operational delivery of consulting services, product roadmaps for TrialLift or SecureJusticeAI, or the internal working documents of RAS Consulting Services LLC. Those are governed by separate operational documents.
 
 ---
 
