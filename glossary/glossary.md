@@ -165,7 +165,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** **LOCKED — canonical_index.md**
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/four-ai-stewardship-practices.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/four-ai-stewardship-practices.md)
 
 ---
 
@@ -175,7 +175,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/four-statute-ai-governance-stack.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/four-statute-ai-governance-stack.md)
 
 ---
 
@@ -185,7 +185,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/five-slide-board-briefing-deck.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/five-slide-board-briefing-deck.md)
 
 ---
 
@@ -195,7 +195,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/three-questions-smart-boards.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/three-questions-smart-boards.md)
 
 ---
 
@@ -205,7 +205,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/shadow-ai-amnesty-cycle.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/shadow-ai-amnesty-cycle.md)
 
 ---
 
@@ -215,7 +215,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/five-step-practical-governance.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/five-step-practical-governance.md)
 
 ---
 
@@ -225,7 +225,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/sarbanes-oxley-parallel.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/sarbanes-oxley-parallel.md)
 
 ---
 
@@ -237,7 +237,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/traffic-light-ai-classification.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/traffic-light-ai-classification.md)
 
 ---
 
@@ -247,7 +247,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** Legal AI Monday — LawFirmAIExpert.com  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/six-step-citation-verification.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/six-step-citation-verification.md)
 
 ---
 
@@ -257,7 +257,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** Legal AI Monday — LawFirmAIExpert.com  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ai-native-firm-analysis.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/ai-native-firm-analysis.md)
 
 ---
 
@@ -267,7 +267,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/low-budget-cyber-hygiene.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/low-budget-cyber-hygiene.md)
 
 ---
 
@@ -277,7 +277,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/thirty-day-gc-action-plan.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/thirty-day-gc-action-plan.md)
 
 ---
 
@@ -287,7 +287,7 @@ Every entry carries four fields:
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** TrialLift — triallift.com  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/triallift-framework.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/triallift-framework.md)
 
 *The framework is published. The platform it describes is in beta and under development — see [TrialLift](#triallift) and [/products/triallift.md](../products/triallift.md). The framework file documents an architecture, not a generally available product.*
 
@@ -305,7 +305,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 ## 4 — NAMED FRAMEWORKS — TRACK 2: EDUCATION & AUTISM
 
-**6 frameworks named. 6 published.** Track record: [tracks/track-2-education-and-autism.md](../tracks/track-2-education-and-autism.md) · Files: [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)
+**6 frameworks named. 6 published.** Track record: [tracks/track-2-education-and-autism.md](../tracks/track-2-education-and-autism.md) · Files: [autism-ai-stewardship](https://github.com/securejusticeai/autism-ai-stewardship)
 
 **All six frameworks in this track were published on August 26, 2026**, each transcribed from audited source. **The audit corrected four of the six definitions below.** Where a definition carries a correction notice, the corrected reading in the linked framework file is authoritative over the definition text.
 
@@ -323,9 +323,9 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 ### The Teaching Revolution Framework
 
-**Definition —** Three-part model for AI in K-12 education — Teachers, Students, Administrators — resting on one conviction: AI amplifies teacher impact; it does not replace it. **File:** [teaching-revolution-framework.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/teaching-revolution-framework.md)
+**Definition —** Three-part model for AI in K-12 education — Teachers, Students, Administrators — resting on one conviction: AI amplifies teacher impact; it does not replace it. **File:** [teaching-revolution-framework.md](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/teaching-revolution-framework.md)
 
-*⚠ **Recorded correction — August 5, 2026.** The canon stated this figure as **7.8** hours per week. That number, together with $2,700 in revenue and 470 minutes, is the statistic for solo and small-firm **lawyers** from Law Partner in Heels Ch. 1.4, published as "7.8 **billable** hours." Teachers do not bill hours. The Teaching Revolution You Can't Ignore contains no instance of 7.8, $2,700, or 470 — it reports **7.2 hours per week** from a district report in Educational Leadership, and a 5-10 hour range from AI-assisted grading. Corrected on Richard Schreiber's ruling. The legal figure is correct and unchanged in [Borrowed Time Wins](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md).
+*⚠ **Recorded correction — August 5, 2026.** The canon stated this figure as **7.8** hours per week. That number, together with $2,700 in revenue and 470 minutes, is the statistic for solo and small-firm **lawyers** from Law Partner in Heels Ch. 1.4, published as "7.8 **billable** hours." Teachers do not bill hours. The Teaching Revolution You Can't Ignore contains no instance of 7.8, $2,700, or 470 — it reports **7.2 hours per week** from a district report in Educational Leadership, and a 5-10 hour range from AI-assisted grading. Corrected on Richard Schreiber's ruling. The legal figure is correct and unchanged in [Borrowed Time Wins](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md).
 
 *⚠ **Recorded correction — August 26, 2026.** A full read of the source establishes that **7.2 is not a general average either.** It appears exactly once in the book, as one district's case-study result — Fulton County, Georgia, per a district report in Educational Leadership. The book's own repeated figure is **5-10 hours per week**, stated three times across two chapters, none of them carrying a named source. The three-stakeholder structure is also **editorial synthesis, not a structure the book names.** See the framework file.*
 
@@ -339,7 +339,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 ### The Phased AI Adoption Model
 
-**Definition —** Five-part sequence for bringing AI into a school without triggering the resistance that kills it: establish a clear vision, build educator buy-in, roll out in phases through a pilot, ensure compliance, and continuously measure success. **File:** [phased-ai-adoption-model.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/phased-ai-adoption-model.md)
+**Definition —** Five-part sequence for bringing AI into a school without triggering the resistance that kills it: establish a clear vision, build educator buy-in, roll out in phases through a pilot, ensure compliance, and continuously measure success. **File:** [phased-ai-adoption-model.md](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/phased-ai-adoption-model.md)
 
 *⚠ **Recorded correction — August 26, 2026.** The prior definition ("identify specific pain point, pilot in 1-2 classrooms for 6-8 weeks…") **dropped two of the book's own five parts** — educator buy-in and compliance — and **hardened one school's anecdote into a rule.** "1-2 classrooms for 6-8 weeks" appears nowhere in the book as guidance; the numbers come from the Maple Grove Elementary example. The book's instruction specifies no classroom count and no duration. Source is Ch. 1 §1.4, not Ch. 2.*
 
@@ -351,7 +351,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 ### The Ethical AI Framework for K-12
 
-**Definition —** Three ethical pillars govern AI in a school — fairness, transparency, and accountability — implemented through four institution-wide policy areas: data privacy and protection, bias and fairness measures, human oversight protocols, and access and equity guidelines. **File:** [ethical-ai-framework-k12.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/ethical-ai-framework-k12.md)
+**Definition —** Three ethical pillars govern AI in a school — fairness, transparency, and accountability — implemented through four institution-wide policy areas: data privacy and protection, bias and fairness measures, human oversight protocols, and access and equity guidelines. **File:** [ethical-ai-framework-k12.md](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/ethical-ai-framework-k12.md)
 
 *⚠ **Recorded correction — August 26, 2026.** The prior definition merged two different structures and got one item wrong. The book's primary structure is **three pillars**, not four components. A genuine four-item list exists — the institution-wide policy areas above — but its fourth item is **"access and equity guidelines," not "transparency to all stakeholders."** And **"teacher-first controls" is not Richard Schreiber's phrase**: it appears once in the 770KB source, in the Foreword written by Peter Swain. The concept is thoroughly present in his own prose as human oversight and teacher agency.*
 
@@ -373,7 +373,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 ### The Audit Protection Framework
 
-**Definition —** A five-step protocol for autism families to protect therapy access during federal OIG audit season: verify your provider's Medicaid billing authorization status, know your child's own authorization details, get state-specific guidance from your autism society, contact the state Medicaid office immediately if services are interrupted, and document the therapy plan and medical necessity evidence now. **File:** [audit-protection-framework.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/audit-protection-framework.md)
+**Definition —** A five-step protocol for autism families to protect therapy access during federal OIG audit season: verify your provider's Medicaid billing authorization status, know your child's own authorization details, get state-specific guidance from your autism society, contact the state Medicaid office immediately if services are interrupted, and document the therapy plan and medical necessity evidence now. **File:** [audit-protection-framework.md](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/audit-protection-framework.md)
 
 *⚠ **Recorded correction — August 26, 2026.** The prior definition recorded **four** steps. The source states **five** — it omitted "Ask your state's autism society for guidance on how the current OIG audit process is affecting providers in your specific state."*
 
@@ -407,7 +407,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Track:** 3 · **Source:** **LOCKED — canonical_index.md**
 **First appearance:** Not recorded in canon — see [Pending Confirmation](#11--pending-confirmation)
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/scarcity-scorecard.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/scarcity-scorecard.md)
 
 *Scoring, per canon: under 20 = green; 20-40 = amber; above 40 = red.*
 
@@ -419,9 +419,9 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Track:** 3 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** *Law Partner in Heels: Billable Hours, Beautiful Life* (June 2025), Chapter 3.3
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/three-gear-flywheel.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/three-gear-flywheel.md)
 
-*✅ **Resolved August 5, 2026 — recorded correction.** The canon stated the gears as "pricing and equal-pay strategies, client-magnet funnels, KPI dashboards and forecasting." Those are the components of [The 90-Day CEO Ascend Blueprint](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ninety-day-ceo-ascend-blueprint.md), Chapter 10 — the canon had merged two frameworks. Chapter 3.3 names each gear in its own subheading: Gear One — Time-Liberation, Gear Two — Leverage, Gear Three — Abundance; the book's AI-clone prompt for that chapter calls it the T-L-A Flywheel. Flagged as an open question July 20, 2026 and resolved by reading the published book. **The book governs; the canon was corrected to match it, not the reverse.***
+*✅ **Resolved August 5, 2026 — recorded correction.** The canon stated the gears as "pricing and equal-pay strategies, client-magnet funnels, KPI dashboards and forecasting." Those are the components of [The 90-Day CEO Ascend Blueprint](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/ninety-day-ceo-ascend-blueprint.md), Chapter 10 — the canon had merged two frameworks. Chapter 3.3 names each gear in its own subheading: Gear One — Time-Liberation, Gear Two — Leverage, Gear Three — Abundance; the book's AI-clone prompt for that chapter calls it the T-L-A Flywheel. Flagged as an open question July 20, 2026 and resolved by reading the published book. **The book governs; the canon was corrected to match it, not the reverse.***
 
 ---
 
@@ -431,7 +431,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Track:** 3 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** *Law Partner in Heels* (June 2025), Chapter 10
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ninety-day-ceo-ascend-blueprint.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/ninety-day-ceo-ascend-blueprint.md)
 
 ---
 
@@ -441,7 +441,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Track:** 3 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** Not recorded in canon — see [Pending Confirmation](#11--pending-confirmation)
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/time-liberation-sprint.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/time-liberation-sprint.md)
 
 ---
 
@@ -451,7 +451,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Track:** 3 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** *Law Partner in Heels* (June 2025), Chapter 9
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ethical-ai-stack-for-law-firms.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/ethical-ai-stack-for-law-firms.md)
 
 ---
 
@@ -461,7 +461,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Track:** 3 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** *Law Partner in Heels* (June 2025), Chapter 13
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/abundance-flywheel.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/abundance-flywheel.md)
 
 ---
 
@@ -471,7 +471,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Track:** 3 · **Source:** AUTHORITY-CANON.md Section 4
 **First appearance:** Not recorded in canon — see [Pending Confirmation](#11--pending-confirmation)
-**Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md)
+**Status:** [**Published**](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md)
 
 ---
 
@@ -822,7 +822,7 @@ This file is a locked-fields document. It is governed by [governance.md](../gove
 
 **For agents:** No definition in this file may be paraphrased, shortened, or rewritten in any downstream output. A framework marked *Not yet published* has no canonical text beyond the definition recorded here, and may not be expanded, exemplified, or reconstructed from memory. A term listed under Pending Confirmation may not have its open field filled by inference.
 
-**Framework count reconciliation:** 30 frameworks named across four tracks. **26 published and verified live** — 20 in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke (13 from Track 1, all 7 from Track 3) and all 6 of Track 2 in the [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship) spoke. The remaining 4 unpublished are all of Track 4, Journalism. **Corrected August 28, 2026:** the named total was 32 until two unsourced Track 1 frameworks were retired. This glossary's counts match [tracks/README.md](../tracks/README.md).
+**Framework count reconciliation:** 30 frameworks named across four tracks. **26 published and verified live** — 20 in the [legal-ai-stewardship](https://github.com/securejusticeai/legal-ai-stewardship) spoke (13 from Track 1, all 7 from Track 3) and all 6 of Track 2 in the [autism-ai-stewardship](https://github.com/securejusticeai/autism-ai-stewardship) spoke. The remaining 4 unpublished are all of Track 4, Journalism. **Corrected August 28, 2026:** the named total was 32 until two unsourced Track 1 frameworks were retired. This glossary's counts match [tracks/README.md](../tracks/README.md).
 
 ---
 
