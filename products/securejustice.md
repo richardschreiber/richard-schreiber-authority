@@ -14,7 +14,7 @@ It exists for the organization that has concluded AI governance cannot wait for 
 
 ## Status
 
-**Live.** SecureJustice.ai is operating and publishing. Richard writes weekly on AI Stewardship in the legal sector at [securejustice.ai](https://securejustice.ai).
+**Live.** SecureJustice.ai is operating and publishing. Richard writes weekly on AI Stewardship in the legal sector at [securejusticeai.com](https://securejusticeai.com).
 
 ---
 
