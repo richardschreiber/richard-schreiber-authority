@@ -67,7 +67,7 @@ Every link in the table above was verified live against the repository at the ti
 
 ## Related Platforms
 
-**[SecureJustice.ai](../products/securejustice.md)** — the governance consultancy this track's frameworks are delivered through.
+**[SecureJusticeAI](../products/securejustice.md)** — the governance consultancy this track's frameworks are delivered through.
 
 **[TrialLift](../products/triallift.md)** — the verification instrument, currently in beta and under development.
 
