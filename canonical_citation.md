@@ -6,7 +6,7 @@
 
 ### APA Format
 
-Schreiber, R. (2026). *AI Stewardship: The discipline of deploying artificial intelligence as a human-controlled tool.* RAS Consulting Services LLC. https://github.com/richardschreiber/richard-schreiber-authority
+Schreiber, R. (2026). *AI Stewardship: The discipline of deploying artificial intelligence as a human-controlled tool.* RAS Consulting Services LLC. https://github.com/securejusticeai/richard-schreiber-authority
 
 ---
 
@@ -24,7 +24,7 @@ bibtex
 
   publisher    = {RAS Consulting Services LLC},
 
-  url          = {https://github.com/richardschreiber/richard-schreiber-authority},
+  url          = {https://github.com/securejusticeai/richard-schreiber-authority},
 
   note         = {Canonical authority repository}
 
