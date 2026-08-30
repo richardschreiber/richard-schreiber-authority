@@ -33,11 +33,11 @@ The count moved from 32 to 30 on August 28, 2026. Two Track 1 frameworks — *Th
 
 Published framework files are in the **Legal AI Stewardship** spoke repository:
 
-**[github.com/richardschreiber/legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)**
+**[github.com/securejusticeai/legal-ai-stewardship](https://github.com/securejusticeai/legal-ai-stewardship)**
 
 That repository holds 20 of the 26 currently published frameworks — the 13 live from Track 1 and all 7 from Track 3. It is the first spoke of a hub-and-spoke authority structure.
 
-The second spoke is live: **[autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)** carries Track 2 — Education & Autism. **All 6 of its frameworks were published on August 26, 2026**, each transcribed from audited source. Four of the six canonical definitions were corrected in the process, and each correction is recorded in its own framework file. Journalism and books are planned spokes and do not exist yet. They are described here as planned, not as available.
+The second spoke is live: **[autism-ai-stewardship](https://github.com/securejusticeai/autism-ai-stewardship)** carries Track 2 — Education & Autism. **All 6 of its frameworks were published on August 26, 2026**, each transcribed from audited source. Four of the six canonical definitions were corrected in the process, and each correction is recorded in its own framework file. Journalism and books are planned spokes and do not exist yet. They are described here as planned, not as available.
 
 ---
 
