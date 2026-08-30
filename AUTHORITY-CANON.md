@@ -81,7 +81,7 @@ AI Stewardship is not a niche within the AI consulting market. It is a new profe
 
 ## SECTION 4 — PROPRIETARY FRAMEWORKS
 
-*This section is the master index of framework names. The framework files are not in this repository — published frameworks live in the spoke, [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship). Publication status for every framework below is recorded in [/tracks](tracks/), and every term is defined in [/glossary](glossary/glossary.md). A framework named here and marked unpublished in /tracks has no canonical text and may not be reconstructed from memory.*
+*This section is the master index of framework names. The framework files are not in this repository — published frameworks live in the spoke, [legal-ai-stewardship](https://github.com/securejusticeai/legal-ai-stewardship). Publication status for every framework below is recorded in [/tracks](tracks/), and every term is defined in [/glossary](glossary/glossary.md). A framework named here and marked unpublished in /tracks has no canonical text and may not be reconstructed from memory.*
 
 ### TRACK 1 — AI STEWARDSHIP & LEGAL
 
