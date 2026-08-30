@@ -65,7 +65,7 @@ A track about the cost of unverified claims cannot be populated with unverified 
 
 ## Planned
 
-A journalism spoke repository is planned, following the same structure as [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship). It does not exist yet and is recorded here as planned, not as available.
+A journalism spoke repository is planned, following the same structure as [legal-ai-stewardship](https://github.com/securejusticeai/legal-ai-stewardship). It does not exist yet and is recorded here as planned, not as available.
 
 ---
 
