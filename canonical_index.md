@@ -7,7 +7,7 @@
 
 ## ENTITY BIO — LOCKED
 
-Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Services LLC, SecureJustice.ai, and LawFirmAIExpert.com, is known for building the moral and operational infrastructure that ensures artificial intelligence is deployed as a human-controlled tool — protecting the most vulnerable people in legal, educational, and advocacy organizations from AI adopted without accountability or conscience.
+Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Services LLC, SecureJusticeAI, and LawFirmAIExpert.com, is known for building the moral and operational infrastructure that ensures artificial intelligence is deployed as a human-controlled tool — protecting the most vulnerable people in legal, educational, and advocacy organizations from AI adopted without accountability or conscience.
 
 ---
 
@@ -74,7 +74,7 @@ Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Ser
 
 **Legal AI Monday:** *"This post is part of the Legal AI Monday series from LawFirmAIExpert.com, written for managing partners of small and mid-sized law firms navigating the AI transition. Nothing in this post constitutes legal advice."*
 
-**SecureJustice.ai:** *"Richard Schreiber is the founder of SecureJustice.ai, an AI governance consultancy for legal services organizations, nonprofit-legal teams, and in-house counsel. He writes weekly on AI Stewardship in the legal sector at https://securejusticeai.com."*
+**SecureJusticeAI:** *"Richard Schreiber is the founder of SecureJusticeAI, an AI governance consultancy for legal services organizations, nonprofit-legal teams, and in-house counsel. He writes weekly on AI Stewardship in the legal sector at https://securejusticeai.com."*
 
 **Autism advocacy:** *"Richard Schreiber is a journalist, autism advocate, and AI strategy consultant. His daughter, 19, is autistic. He is the co-founder, with Maggie Schreiber, of the Autism Innovation Community Foundation and a strategic advisor to small businesses navigating AI transformation. He writes about autism, technology, and the human systems that shape both."*
 
