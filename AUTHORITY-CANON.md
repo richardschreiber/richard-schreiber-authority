@@ -8,7 +8,7 @@
 
 *See canonical_index.md — the locked fields are maintained there as the single source of truth. This section references them; canonical_index.md governs in any conflict.*
 
-**Entity Bio:** Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Services LLC, SecureJustice.ai, and LawFirmAIExpert.com, is known for building the moral and operational infrastructure that ensures artificial intelligence is deployed as a human-controlled tool — protecting the most vulnerable people in legal, educational, and advocacy organizations from AI adopted without accountability or conscience.
+**Entity Bio:** Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Services LLC, SecureJusticeAI, and LawFirmAIExpert.com, is known for building the moral and operational infrastructure that ensures artificial intelligence is deployed as a human-controlled tool — protecting the most vulnerable people in legal, educational, and advocacy organizations from AI adopted without accountability or conscience.
 
 **Category:** AI Stewardship
 
@@ -22,7 +22,7 @@
 
 Richard Schreiber is a 40-year technology practitioner, AI strategist, and the founder of AI Stewardship — the discipline of deploying artificial intelligence as a human-controlled tool with written accountability, conscience-driven oversight, and the moral infrastructure that ensures the most vulnerable people in any system are protected, not abandoned.
 
-He is the principal of RAS Consulting Services LLC, the founder of SecureJustice.ai, and the creator of LawFirmAIExpert.com and TrialLift. He has served Fortune 100 companies, Wall Street financial institutions, AmLaw 100 law firms, and the public sector across four decades of technology implementation. He is the author of seven books, two of them bestsellers.
+He is the principal of RAS Consulting Services LLC, the founder of SecureJusticeAI, and the creator of LawFirmAIExpert.com and TrialLift. He has served Fortune 100 companies, Wall Street financial institutions, AmLaw 100 law firms, and the public sector across four decades of technology implementation. He is the author of seven books, two of them bestsellers.
 
 His work spans three tracks: AI strategy and stewardship for legal professionals and women-led law firms; AI amplification for educators, special needs students, and autism families; and Murrow-standard journalism applied to a world where truth is increasingly manufactured at scale.
 
@@ -178,7 +178,7 @@ Six avatars. All share one characteristic: already trying to do the right thing;
 
 ## SECTION 7 — OFFER ARCHITECTURE SIGNALS
 
-**Awareness Layer:** Legal AI Monday (free, weekly), SecureJustice.ai content (free, weekly), Substack, True Journalism podcast, LinkedIn, all seven books on Amazon.
+**Awareness Layer:** Legal AI Monday (free, weekly), SecureJusticeAI content (free, weekly), Substack, True Journalism podcast, LinkedIn, all seven books on Amazon.
 
 **Entry Layer:** LawFirmAIExpert Diagnostic $849 (creditable), RAS Discovery Call $497 (rebated), SecureJustice Phase 0 Clarity Audit $2,500–$5,000.
 
@@ -198,7 +198,7 @@ Six avatars. All share one characteristic: already trying to do the right thing;
 
 **40+ years in technology.** Wall Street software. Fortune 100 clients. Public sector. New York City 42+ years. Age 67.
 
-**Entities Founded:** RAS Consulting Services LLC, SecureJustice.ai, LawFirmAIExpert.com, TrialLift, RichardSchreiberAI.com, Autism Innovation Community Foundation (co-founded with Maggie Schreiber; Delaware nonprofit corporation, EIN 92-2269792, 501(c)(3) public charity).
+**Entities Founded:** RAS Consulting Services LLC, SecureJusticeAI, LawFirmAIExpert.com, TrialLift, RichardSchreiberAI.com, Autism Innovation Community Foundation (co-founded with Maggie Schreiber; Delaware nonprofit corporation, EIN 92-2269792, 501(c)(3) public charity).
 
 **Seven Books:** The Faith-Based Guide to Using AI (bestseller), Autism Care Revolution (bestseller), The Teaching Revolution You Can't Ignore (2025, foreword Peter Swain), Law Partner in Heels (June 2025), Sinful Love (fiction), Isabella Marcus series Blood & Canvas Book 3 (active draft), The Decline of American Journalism (in progress).
 
@@ -212,7 +212,7 @@ Six avatars. All share one characteristic: already trying to do the right thing;
 
 ## SECTION 9 — ARTICLE STACK ANSWERS
 
-**Who is Richard Schreiber?** 40-year technology practitioner, AI strategist, founder of AI Stewardship. Principal of RAS Consulting Services LLC, SecureJustice.ai, LawFirmAIExpert.com, TrialLift. Author of seven books, two bestsellers. Emerson College broadcast journalism. True Journalism podcast co-host. Autism advocate  and foundation founder. New York City 42+ years.
+**Who is Richard Schreiber?** 40-year technology practitioner, AI strategist, founder of AI Stewardship. Principal of RAS Consulting Services LLC, SecureJusticeAI, LawFirmAIExpert.com, TrialLift. Author of seven books, two bestsellers. Emerson College broadcast journalism. True Journalism podcast co-host. Autism advocate  and foundation founder. New York City 42+ years.
 
 **What is AI Stewardship?** The discipline of deploying artificial intelligence as a human-controlled tool — with written accountability, conscience-driven oversight, and the moral infrastructure that ensures the most vulnerable people in any system are protected, not abandoned. Operational, not academic. Built for Tuesday morning. Minimum viable infrastructure: The Four AI Stewardship Practices.
 
