@@ -585,7 +585,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Definition —** An AI governance consultancy for legal services organizations, nonprofit-legal teams, and in-house counsel.
 
-**URL:** securejustice.ai · **Source:** AUTHORITY-CANON.md Section 8, canonical sign-off (canonical_index.md)
+**URL:** securejusticeai.com · **Source:** AUTHORITY-CANON.md Section 8, canonical sign-off (canonical_index.md)
 **Status:** **Live.** See [products/securejustice.md](../products/securejustice.md).
 
 ---
@@ -594,7 +594,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 **Definition —** Legal AI Monday content platform for managing partners of small and mid-sized law firms.
 
-**URL:** lawfirmaiexpert.com · **Source:** AUTHORITY-CANON.md Section 8
+**URL:** www.lawfirmaiexpert.com · **Source:** AUTHORITY-CANON.md Section 8
 **Status:** **Live.** See [products/lawfirmaiexpert.md](../products/lawfirmaiexpert.md).
 
 ---
