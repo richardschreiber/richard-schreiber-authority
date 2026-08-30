@@ -30,7 +30,7 @@ Personal memory of JFK assassination coverage, Watergate hearings, Nixon's resig
 ## ENTITIES FOUNDED
 
 - **RAS Consulting Services, LLC** — primary consulting entity; software integration, AI-powered solutions, business process optimization; focus on women-led law firms and small to medium-sized businesses
-- **SecureJustice.ai** — AI governance consultancy for legal services organizations, nonprofit-legal teams, and in-house counsel
+- **SecureJusticeAI** — AI governance consultancy for legal services organizations, nonprofit-legal teams, and in-house counsel
 - **LawFirmAIExpert.com** — Legal AI Monday content platform for managing partners of small and mid-sized law firms
 - **TrialLift** — proprietary trial preparation platform; citation validation, hallucination quarantine, predictive trial strategy
 - **RichardSchreiberAI.com** — AI clone portal built on Delphi.ai; trained on Richard's books and public work
@@ -156,7 +156,7 @@ Recovered from cocaine addiction in his late twenties. More than 30 years of sob
 Daughter, now 19, is autistic. Navigated IEPs, therapy authorizations, Medicaid denials, insurance appeals, school transitions, bullying, and the services cliff firsthand for 19 years. Today she is an artist and animator studying independently at art college — and thriving. *(Her name, her school, and her location are not published. Standing rule; see canonical_index.md.)*
 
 **Personal cybersecurity breach**
-Got hacked. Using his own breach as a testimonial for SecureJustice.ai. Not theory — lived operational experience of exactly what he advises clients to prevent.
+Got hacked. Using his own breach as a testimonial for SecureJusticeAI. Not theory — lived operational experience of exactly what he advises clients to prevent.
 
 **Faith as foundation**
 2024 decision to turn it over completely to Jesus Christ — not as a marketing position but as the daily foundation of every decision. Married 20 years.
