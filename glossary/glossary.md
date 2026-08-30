@@ -153,7 +153,7 @@ Every entry carries four fields:
 
 **Platform of origin — the rule that set these fields.** Every framework in this track carries a **First appearance** naming the platform it originated on. Those assignments were made by Richard Schreiber on August 5, 2026, applying one rule across the whole track:
 
-> **The framework's named audience in the canon sets the platform.** General counsel, boards, organization-wide governance, and legal services organizations are SecureJustice.ai avatars — [AUTHORITY-CANON.md](../AUTHORITY-CANON.md) Section 6, Avatars 2 and 3 — so their frameworks are recorded to SecureJustice.ai. Managing partners of small and mid-sized law firms are the Legal AI Monday audience, so their frameworks are recorded to LawFirmAIExpert.com. A framework belonging to a named product or consortium is recorded to that product.
+> **The framework's named audience in the canon sets the platform.** General counsel, boards, organization-wide governance, and legal services organizations are SecureJusticeAI avatars — [AUTHORITY-CANON.md](../AUTHORITY-CANON.md) Section 6, Avatars 2 and 3 — so their frameworks are recorded to SecureJusticeAI. Managing partners of small and mid-sized law firms are the Legal AI Monday audience, so their frameworks are recorded to LawFirmAIExpert.com. A framework belonging to a named product or consortium is recorded to that product.
 
 **This records the platform, not the publication.** Naming the platform a framework originated on is not the same as naming the specific post, issue, or date it first appeared in. Those are not in the canon, and no entry in this file asserts one.
 
@@ -164,7 +164,7 @@ Every entry carries four fields:
 **Definition —** The four observable governance disciplines — written board-ratified AI policy, documented AI inventory, human-in-the-loop standard, and rehearsed incident response playbook — that constitute the minimum viable AI Stewardship infrastructure for any legal or advocacy organization.
 
 **Track:** 1 · **Source:** **LOCKED — canonical_index.md**
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/four-ai-stewardship-practices.md)
 
 ---
@@ -174,7 +174,7 @@ Every entry carries four fields:
 **Definition —** The four simultaneously active AI regulatory regimes organizations must map in 2026: Colorado AI Act, Texas TRAIGA, California TFAIA/AB 2013, and EU AI Act. Each carries different requirements, timelines, and penalties. A coherent governance program maps them simultaneously and resolves contradictions in advance.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/four-statute-ai-governance-stack.md)
 
 ---
@@ -184,7 +184,7 @@ Every entry carries four fields:
 **Definition —** Richard's named deliverable for GC AI governance readiness — ready on 24-hour notice: regulatory map, AI inventory, policy ratification status, incident response readiness, and one open board question with cost of doing nothing.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/five-slide-board-briefing-deck.md)
 
 ---
@@ -194,7 +194,7 @@ Every entry carries four fields:
 **Definition —** The benchmark for board-level AI governance readiness in 2026: the four-by-four regulatory matrix, the org chart with named human-in-the-loop owners, and the worst-case vendor AI scenario playbook.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/three-questions-smart-boards.md)
 
 ---
@@ -204,7 +204,7 @@ Every entry carries four fields:
 **Definition —** Monthly employee reporting of all AI tools used with no consequence; legal classifies each as sanctioned, sandboxed, or removed. Shadow shrinks from security problem to procurement pipeline within two quarters.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/shadow-ai-amnesty-cycle.md)
 
 ---
@@ -214,7 +214,7 @@ Every entry carries four fields:
 **Definition —** For the resource-constrained GC without a staff of ten. Estimated total time: 12 hours. Inventory, classify, review data processing agreements, add AI annex to incident response plan, brief the board using the Sarbanes-Oxley parallel.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/five-step-practical-governance.md)
 
 ---
@@ -224,7 +224,7 @@ Every entry carries four fields:
 **Definition —** The analytical framework that makes AI governance ignorance legally indefensible: just as SOX made financial control ignorance a legal exposure, the convergence of ABA Opinion 512, Regulation S-P, and state AI laws constructs identical accountability for AI governance failures.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/sarbanes-oxley-parallel.md)
 
 ---
@@ -236,7 +236,7 @@ Every entry carries four fields:
 *⚠ **Attribution corrected — August 5, 2026. This is not Richard Schreiber's IP.** The three-tier traffic-light model originates with the **American Bar Association** and has been adopted or referenced by multiple state bars and ethics committees — [ABA Practical Checklist for Using AI Responsibly in Your Law Firm](https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2026/checklist-for-using-ai-responsibly-in-your-law-firm/). Richard attributed it correctly in his own published writing, where it appears as **"The Bar Classification System,"** with the ABA cited and linked. The canon renamed it and filed it under original IP; that was an extraction error, not a claim Richard made. See [Adopted, Not Original](#10--adopted-not-original). What is his: the legal-organization deployment guidance built around the tiers.*
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/traffic-light-ai-classification.md)
 
 ---
@@ -266,7 +266,7 @@ Every entry carries four fields:
 **Definition —** Four controls for resource-constrained legal aid organizations: MFA (free), quarterly phishing training, offsite encrypted backups (under $100/month), vendor security reviews with three written questions.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/low-budget-cyber-hygiene.md)
 
 ---
@@ -276,7 +276,7 @@ Every entry carries four fields:
 **Definition —** Named immediate action framework: complete AI inventory (weeks 1-2), draft and ratify AI use policy (week 2), tabletop incident response drill (month 2), documented in board minutes.
 
 **Track:** 1 · **Source:** AUTHORITY-CANON.md Section 4
-**First appearance:** SecureJustice.ai  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
+**First appearance:** SecureJusticeAI  *(platform of origin — assigned by Richard Schreiber, Aug 5, 2026)*
 **Status:** [**Published**](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/thirty-day-gc-action-plan.md)
 
 ---
@@ -581,7 +581,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 ---
 
-### SecureJustice.ai
+### SecureJusticeAI
 
 **Definition —** An AI governance consultancy for legal services organizations, nonprofit-legal teams, and in-house counsel.
 
