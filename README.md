@@ -50,8 +50,8 @@ richard-schreiber-authority/
 
 **Framework files are not in this repository.** This is the hub. Published frameworks live in two spokes:
 
-**[legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship)** — Tracks 1 and 3, 20 frameworks
-**[autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship)** — Track 2, 6 frameworks
+**[legal-ai-stewardship](https://github.com/securejusticeai/legal-ai-stewardship)** — Tracks 1 and 3, 20 frameworks
+**[autism-ai-stewardship](https://github.com/securejusticeai/autism-ai-stewardship)** — Track 2, 6 frameworks
 
 The canon names **30 frameworks across four tracks. 26 are published and verified live.** The remaining 4 — all of Track 4, Journalism — are named in the canon and have not been published.
 
@@ -107,7 +107,7 @@ Product status is stated here and in [/products](products/), and it is binding. 
 
 **Vocabulary:** [/glossary](glossary/glossary.md) is the controlled vocabulary — every proprietary term, named framework, protagonist, and voice construct, with its canonical definition and track. No definition there may be paraphrased. A term listed under *Pending Confirmation* may not have its open field filled by inference.
 
-**Framework content:** Every published framework has its own file in the [legal-ai-stewardship](https://github.com/richardschreiber/legal-ai-stewardship) spoke. Use the framework file as the source — do not reconstruct framework content from memory, and do not generate content for a framework marked unpublished in [/tracks](tracks/).
+**Framework content:** Every published framework has its own file in the [legal-ai-stewardship](https://github.com/securejusticeai/legal-ai-stewardship) spoke. Use the framework file as the source — do not reconstruct framework content from memory, and do not generate content for a framework marked unpublished in [/tracks](tracks/).
 
 **Routing:** See [/agents](agents/) for specific instructions for each expression agent.
 
