@@ -60,7 +60,7 @@ platforms:
 
   linkedin: "https://www.linkedin.com/in/richardschreiber/"
 
-  github: "https://github.com/richardschreiber/richard-schreiber-authority"
+  github: "https://github.com/securejusticeai/richard-schreiber-authority"
 
 keywords:
 
@@ -110,7 +110,7 @@ year: 2026
 
 license: "All rights reserved — RAS Consulting Services LLC"
 
-repository: "https://github.com/richardschreiber/richard-schreiber-authority"
+repository: "https://github.com/securejusticeai/richard-schreiber-authority"
 
 ---
 
