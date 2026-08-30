@@ -26,13 +26,13 @@ Automation here applies to drafts and process. It never applies to judgment. Eve
 
 | Framework | Status |
 |---|---|
-| [The Scarcity Scorecard](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/scarcity-scorecard.md) | **Published** |
-| [The Three-Gear Flywheel](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/three-gear-flywheel.md) | **Published** |
-| [The 90-Day CEO Ascend Blueprint](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ninety-day-ceo-ascend-blueprint.md) | **Published** |
-| [The Time-Liberation Sprint](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/time-liberation-sprint.md) | **Published** |
-| [The Ethical AI Stack for Law Firms](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ethical-ai-stack-for-law-firms.md) | **Published** |
-| [The Abundance Flywheel](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/abundance-flywheel.md) | **Published** |
-| [Borrowed Time Wins](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md) | **Published** |
+| [The Scarcity Scorecard](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/scarcity-scorecard.md) | **Published** |
+| [The Three-Gear Flywheel](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/three-gear-flywheel.md) | **Published** |
+| [The 90-Day CEO Ascend Blueprint](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/ninety-day-ceo-ascend-blueprint.md) | **Published** |
+| [The Time-Liberation Sprint](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/time-liberation-sprint.md) | **Published** |
+| [The Ethical AI Stack for Law Firms](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/ethical-ai-stack-for-law-firms.md) | **Published** |
+| [The Abundance Flywheel](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/abundance-flywheel.md) | **Published** |
+| [Borrowed Time Wins](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/borrowed-time-wins.md) | **Published** |
 
 **This track is complete. Seven named, seven published, zero gaps.**
 
@@ -60,7 +60,7 @@ This difference is deliberate and recorded, not an error. The spoke's heading wa
 
 All 7 frameworks are in the spoke repository:
 
-**[github.com/richardschreiber/legal-ai-stewardship/tree/main/frameworks](https://github.com/richardschreiber/legal-ai-stewardship/tree/main/frameworks)**
+**[github.com/securejusticeai/legal-ai-stewardship/tree/main/frameworks](https://github.com/securejusticeai/legal-ai-stewardship/tree/main/frameworks)**
 
 Every link in the table above was verified live against the repository at the time of commit.
 
