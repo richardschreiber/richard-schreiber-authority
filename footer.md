@@ -48,9 +48,9 @@ frameworks:
 
 platforms:
 
-  legal_ai: "https://lawfirmaiexpert.com"
+  legal_ai: "https://www.lawfirmaiexpert.com"
 
-  governance: "https://securejustice.ai"
+  governance: "https://securejusticeai.com"
 
   trial_prep: "https://triallift.com"
 
