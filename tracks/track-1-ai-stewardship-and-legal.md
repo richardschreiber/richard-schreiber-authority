@@ -22,19 +22,19 @@ Track 1 is the discipline that closes that gap: written accountability, document
 
 | Framework | Status |
 |---|---|
-| [The Four AI Stewardship Practices](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/four-ai-stewardship-practices.md) | **Published** |
-| [The Four-Statute AI Governance Stack](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/four-statute-ai-governance-stack.md) | **Published** |
-| [The Five-Slide Board Briefing Deck](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/five-slide-board-briefing-deck.md) | **Published** |
-| [The Three Questions Smart Boards Are Asking](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/three-questions-smart-boards.md) | **Published** |
-| [The Shadow AI Amnesty Cycle](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/shadow-ai-amnesty-cycle.md) | **Published** |
-| [The Five-Step Practical AI Governance Framework](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/five-step-practical-governance.md) | **Published** |
-| [The Sarbanes-Oxley Parallel](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/sarbanes-oxley-parallel.md) | **Published** |
-| [The Traffic Light AI Classification System](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/traffic-light-ai-classification.md) | **Published** |
-| [The Six-Step Citation Verification Protocol](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/six-step-citation-verification.md) | **Published** |
-| [The AI-Native Firm Analysis Framework](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/ai-native-firm-analysis.md) | **Published** |
-| [The Low-Budget Cyber Hygiene Framework](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/low-budget-cyber-hygiene.md) | **Published** |
-| [The 30-Day General Counsel Action Plan](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/thirty-day-gc-action-plan.md) | **Published** |
-| [The TrialLift Framework](https://github.com/richardschreiber/legal-ai-stewardship/blob/main/frameworks/triallift-framework.md) | **Published** |
+| [The Four AI Stewardship Practices](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/four-ai-stewardship-practices.md) | **Published** |
+| [The Four-Statute AI Governance Stack](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/four-statute-ai-governance-stack.md) | **Published** |
+| [The Five-Slide Board Briefing Deck](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/five-slide-board-briefing-deck.md) | **Published** |
+| [The Three Questions Smart Boards Are Asking](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/three-questions-smart-boards.md) | **Published** |
+| [The Shadow AI Amnesty Cycle](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/shadow-ai-amnesty-cycle.md) | **Published** |
+| [The Five-Step Practical AI Governance Framework](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/five-step-practical-governance.md) | **Published** |
+| [The Sarbanes-Oxley Parallel](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/sarbanes-oxley-parallel.md) | **Published** |
+| [The Traffic Light AI Classification System](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/traffic-light-ai-classification.md) | **Published** |
+| [The Six-Step Citation Verification Protocol](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/six-step-citation-verification.md) | **Published** |
+| [The AI-Native Firm Analysis Framework](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/ai-native-firm-analysis.md) | **Published** |
+| [The Low-Budget Cyber Hygiene Framework](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/low-budget-cyber-hygiene.md) | **Published** |
+| [The 30-Day General Counsel Action Plan](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/thirty-day-gc-action-plan.md) | **Published** |
+| [The TrialLift Framework](https://github.com/securejusticeai/legal-ai-stewardship/blob/main/frameworks/triallift-framework.md) | **Published** |
 
 ---
 
@@ -59,7 +59,7 @@ Nothing in this repository may reintroduce either name, and no agent may reconst
 
 All 13 published Track 1 frameworks are in the spoke repository:
 
-**[github.com/richardschreiber/legal-ai-stewardship/tree/main/frameworks](https://github.com/richardschreiber/legal-ai-stewardship/tree/main/frameworks)**
+**[github.com/securejusticeai/legal-ai-stewardship/tree/main/frameworks](https://github.com/securejusticeai/legal-ai-stewardship/tree/main/frameworks)**
 
 Every link in the table above was verified live against the repository at the time of commit.
 
