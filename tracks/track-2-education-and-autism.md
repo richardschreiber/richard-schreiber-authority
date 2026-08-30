@@ -8,8 +8,8 @@
 
 **No framework in this track has been published yet.**
 **All six frameworks in this track are published.**
-The six frameworks below are named in the canon. Their full content exists in Richard Schreiber's working material and has not been committed to a public repository. The spoke repository [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship) is live and fully structured, and it contains no framework files.
-They were published on August 26, 2026, in the spoke repository [autism-ai-stewardship](https://github.com/richardschreiber/autism-ai-stewardship), each transcribed from audited source: *The Teaching Revolution You Can't Ignore* (2025) and the autism advocacy post series of May 19, 2026.
+The six frameworks below are named in the canon. Their full content exists in Richard Schreiber's working material and has not been committed to a public repository. The spoke repository [autism-ai-stewardship](https://github.com/securejusticeai/autism-ai-stewardship) is live and fully structured, and it contains no framework files.
+They were published on August 26, 2026, in the spoke repository [autism-ai-stewardship](https://github.com/securejusticeai/autism-ai-stewardship), each transcribed from audited source: *The Teaching Revolution You Can't Ignore* (2025) and the autism advocacy post series of May 19, 2026.
 This file is here so the record is complete while that spoke is being filled, rather than complete only after it launches. Nothing in this track may be described anywhere as available.
 **The audit changed four of the six canonical definitions.** Each affected framework file carries a Recorded Correction section stating what the canon claimed, what the source says, and why the difference matters. The corrections are recorded rather than quietly applied — see the summary below.
 ---
@@ -36,12 +36,12 @@ This track is personal. Richard's daughter is 19 and autistic. The foundation he
 
 | Framework | Status |
 |---|---|
-| [The Teaching Revolution Framework](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/teaching-revolution-framework.md) | **Published** |
-| [The Phased AI Adoption Model](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/phased-ai-adoption-model.md) | **Published** |
-| [The Ethical AI Framework for K-12](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/ethical-ai-framework-k12.md) | **Published** |
-| [The Services Cliff Framework](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/services-cliff-framework.md) | **Published** |
-| [The Audit Protection Framework](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/audit-protection-framework.md) | **Published** |
-| [The Five Next Steps Model](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/frameworks/five-next-steps-model.md) | **Published** |
+| [The Teaching Revolution Framework](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/teaching-revolution-framework.md) | **Published** |
+| [The Phased AI Adoption Model](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/phased-ai-adoption-model.md) | **Published** |
+| [The Ethical AI Framework for K-12](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/ethical-ai-framework-k12.md) | **Published** |
+| [The Services Cliff Framework](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/services-cliff-framework.md) | **Published** |
+| [The Audit Protection Framework](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/audit-protection-framework.md) | **Published** |
+| [The Five Next Steps Model](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/frameworks/five-next-steps-model.md) | **Published** |
 
 ---
 
@@ -83,7 +83,7 @@ That third category matters most. Several operative instructions in the autism f
 
 ## The Book Behind The Track
 
-*Autism Care Revolution* is a primary source here, recorded at [autism-care-revolution.md](https://github.com/richardschreiber/autism-ai-stewardship/blob/main/autism-care-revolution.md) — a family's journey, a reasoned rejection of the mainstream autism-care model, and a 2025-updated argument that AI and technology are making a real difference in autism care.
+*Autism Care Revolution* is a primary source here, recorded at [autism-care-revolution.md](https://github.com/securejusticeai/autism-ai-stewardship/blob/main/autism-care-revolution.md) — a family's journey, a reasoned rejection of the mainstream autism-care model, and a 2025-updated argument that AI and technology are making a real difference in autism care.
 
 It contributes **nothing** to the Services Cliff or Audit Protection frameworks: a full-text search returns zero occurrences of Medicaid, waiver, OIG, prior authorization, medical necessity, vocational rehabilitation, or aging out. Recorded so no agent cites it for material it does not hold.
 
