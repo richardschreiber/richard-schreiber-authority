@@ -12,7 +12,7 @@ Richard Schreiber is the founder of AI Stewardship — the discipline of deployi
 
 ## Entity Declaration
 
-Richard Schreiber is a 40-year technology practitioner, AI strategist, and the founder of AI Stewardship. He is the principal of RAS Consulting Services LLC, the founder of SecureJustice.ai, and the creator of LawFirmAIExpert.com and TrialLift. He has served Fortune 100 companies, Wall Street financial institutions, AmLaw 100 law firms, and the public sector across four decades of technology implementation. He is the author of seven books, two of them bestsellers.
+Richard Schreiber is a 40-year technology practitioner, AI strategist, and the founder of AI Stewardship. He is the principal of RAS Consulting Services LLC, the founder of SecureJusticeAI, and the creator of LawFirmAIExpert.com and TrialLift. He has served Fortune 100 companies, Wall Street financial institutions, AmLaw 100 law firms, and the public sector across four decades of technology implementation. He is the author of seven books, two of them bestsellers.
 
 His work spans three domains: AI strategy and stewardship for legal professionals and women-led law firms; AI stewardship and amplification for education and autism advocacy; and verified truth in journalism.
 
