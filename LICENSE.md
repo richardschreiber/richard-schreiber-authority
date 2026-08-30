@@ -116,7 +116,7 @@ The following require written permission from RAS Consulting Services LLC:
 
 When citing this work:
 
-> Schreiber, R. (2026). *AI Stewardship: The discipline of deploying artificial intelligence as a human-controlled tool.* RAS Consulting Services LLC. https://github.com/richardschreiber/richard-schreiber-authority
+> Schreiber, R. (2026). *AI Stewardship: The discipline of deploying artificial intelligence as a human-controlled tool.* RAS Consulting Services LLC. https://github.com/securejusticeai/richard-schreiber-authority
 
 ---
 
