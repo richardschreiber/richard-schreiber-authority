@@ -88,8 +88,8 @@ News consumers, journalists, and public discourse participants navigating a worl
 
 | Platform | URL | Status |
 |---|---|---|
-| Legal AI | lawfirmaiexpert.com | Live |
-| AI Governance | securejustice.ai | Live |
+| Legal AI | www.lawfirmaiexpert.com | Live |
+| AI Governance | securejusticeai.com | Live |
 | AI Clone | richardschreiberai.com | Live |
 | Trial Prep | triallift.com | **Beta — under development** |
 | Substack | https://substack.com/@aistrategistraschreiber | Live |
