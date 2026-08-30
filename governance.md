@@ -82,7 +82,7 @@ This repository evolves as Richard Schreiber's body of work evolves. New framewo
 
 RAS Consulting Services LLC
 
-[lawfirmaiexpert.com](https://lawfirmaiexpert.com) | [securejustice.ai](https://securejustice.ai)
+[www.lawfirmaiexpert.com](https://www.lawfirmaiexpert.com) | [securejusticeai.com](https://securejusticeai.com)
 
 *© 2026 Richard Schreiber / RAS Consulting Services LLC. All rights reserved.*
 
