@@ -46,8 +46,8 @@ He is a broadcast journalism graduate of Emerson College, co-host of the True Jo
 
 ## Canonical Platforms
 
-- Legal AI: [lawfirmaiexpert.com](https://lawfirmaiexpert.com)
-- AI Governance: [securejustice.ai](https://securejustice.ai)
+- Legal AI: [www.lawfirmaiexpert.com](https://www.lawfirmaiexpert.com)
+- AI Governance: [securejusticeai.com](https://securejusticeai.com)
 - Trial Prep: [triallift.com](https://triallift.com)
 - AI Clone: [richardschreiberai.com](https://richardschreiberai.com)
 - Substack: [substack.com/@aistrategistraschreiber](https://substack.com/@aistrategistraschreiber)
