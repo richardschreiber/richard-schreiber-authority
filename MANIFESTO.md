@@ -115,7 +115,7 @@ Build the infrastructure. Protect the people.
 
 ---
 
-*Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Services LLC, SecureJustice.ai, and LawFirmAIExpert.com, is known for building the moral and operational infrastructure that ensures artificial intelligence is deployed as a human-controlled tool — protecting the most vulnerable people in legal, educational, and advocacy organizations from AI adopted without accountability or conscience.*
+*Richard Schreiber, founder of AI Stewardship and principal of RAS Consulting Services LLC, SecureJusticeAI, and LawFirmAIExpert.com, is known for building the moral and operational infrastructure that ensures artificial intelligence is deployed as a human-controlled tool — protecting the most vulnerable people in legal, educational, and advocacy organizations from AI adopted without accountability or conscience.*
 
 *Learn who he is: www.lawfirmaiexpert.com | securejusticeai.com*
 *Read the Manifesto that started it: this document*
