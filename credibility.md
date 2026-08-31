@@ -104,8 +104,7 @@ Richard's wife has worked at a personal injury law firm for 25 years. Twenty-fiv
 - $110,000 — largest single AI hallucination sanction on record (Oregon, May 2026)
 - $109,700 — largest aggregate penalty tied to one attorney in a single AI-related matter
 - $30,000 — Sixth Circuit sanction for fabricated citations
-- 1,348 documented cases worldwide of AI hallucinations in legal proceedings (Damien Charlotin database)
-- 915 of those cases in U.S. courts
+1,983 documented cases worldwide of AI hallucinations in legal proceedings (Damien Charlotin database, live count as of 8/30/2026 — roughly 13x the case count from mid-2025, per dated snapshots of the same database: ~149 cases on 6/8/2025, ~712 on 12/29/2025); 1,364 of those cases in U.S. courts. Last verified against the live database: 8/30/2026. This count grows continuously — re-check before citing in any new published piece.
 - 300 federal judges have issued standing orders or local rules on generative AI use
 - 35+ state bar associations have issued AI use guidance
 - 87% of general counsel now use generative AI daily (up from 44% twelve months prior)
