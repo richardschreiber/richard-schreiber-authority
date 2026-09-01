@@ -8,6 +8,29 @@ Format: Version | Date | Description
 
 ---
 
+## [1.2.0] — 2026-08-31
+
+**Session 5 Canonical Integrity Audit rulings, executed on Richard Schreiber's rulings of August 31, 2026.**
+
+### Retired
+
+- **Autism Connection** — retired outright. Previously carried as an orphan term flagged in glossary.md Section 11A; Richard Schreiber ruled to retire it rather than continue sourcing it. No definition, source, or downstream usage ever existed for this name.
+
+### Resolved
+
+- **The Teaching Revolution vs. The Teaching Revolution Framework** — ruled to be two genuine levels of the same idea, not a duplicate. "The Teaching Revolution" states the broader thesis (canonical_index.md); "The Teaching Revolution Framework" is the specific operational framework derived from it (glossary.md Section 4, sourced to *The Teaching Revolution You Can't Ignore*, 2025). Both remain canonical, unmerged.
+- **The AI IT in a Box Framework lineage** — confirmed as the working draft that became SecureJusticeAI's live four-partner, 90-day consortium delivery model. Stays retired as a standalone canon entry per the August 26, 2026 ruling; its content now lives only inside SecureJusticeAI's live operating model.
+
+### Fixed
+
+- **CITATION.cff** — `website` and `url` fields corrected from the bare, non-resolving `lawfirmaiexpert.com` to `www.lawfirmaiexpert.com`, matching the canon's own locked URL record.
+
+### Files changed
+
+`glossary/glossary.md` · `CITATION.cff`
+
+---
+
 ## [1.1.0] — 2026-08-28
 
 **Canon corrections executed on Richard Schreiber's rulings of August 26, 2026.**
