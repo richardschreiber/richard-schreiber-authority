@@ -333,7 +333,7 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 **First appearance:** *The Teaching Revolution You Can't Ignore* (2025)
 **Status:** *Not yet published*
 
-*The canon carries both **The Teaching Revolution** (locked definition, canonical_index.md) and **The Teaching Revolution Framework** (Section 4). They are the same body of work stated at two levels of detail, and both are canonical. Neither has been resolved into a single entry, and neither is discarded here on an agent's judgment — see [Pending Confirmation](#11--pending-confirmation).*
+*⚠ **Resolved — August 31, 2026.** The canon carries both **The Teaching Revolution** (locked definition, canonical_index.md) and **The Teaching Revolution Framework** (this entry). Richard Schreiber's direct ruling: these are two genuine levels of the same idea, not a duplicate. "The Teaching Revolution" states the broader thesis; "The Teaching Revolution Framework" is the specific operational framework derived from it, published and sourced as above. Both remain canonical, unmerged — see [Section 11C](#11--pending-confirmation).*
 
 ---
 
@@ -659,14 +659,14 @@ Both were carried here since August 5, 2026 as *Not yet published*, with definit
 
 ---
 
-### Autism Connection
+### Autism Connection — RETIRED
 
-**Definition —** *None. Unverified term.*
+**Definition —** *None. Retired term — do not use.*
 
-**Track:** Unassigned · **Source:** No source located
-**Status:** *Orphan — flagged, not canonical*
+**Track:** Unassigned · **Source:** Richard Schreiber, direct ruling, August 31, 2026
+**Status:** *Retired*
 
-*This name appeared in prior working documents. Richard Schreiber does not recognize its origin and no source has been located.* It carries no definition, it is not an entity, and it may not be used in any downstream output until it is sourced or retired.
+*This name appeared in prior working documents with no definition, no source, and no downstream usage. Flagged as an orphan term; Richard Schreiber ruled on August 31, 2026 to retire it outright rather than continue carrying it as pending. It may not be used in any output, past framing included.*
 
 ---
 
@@ -784,9 +784,11 @@ The canon locks the **definition** of every term below but does not record **whe
 
 **Track 4 frameworks:** The Sticky Note Test
 
-**Other:** Marcus Burgoff · Autism Connection (orphan term — no source located)
+**Other:** Marcus Burgoff
 
 *Resolved August 28, 2026 and removed from this list: the foundation's locked legal name.* It is **Autism Innovation Community Foundation**, sourced from its incorporation and IRS determination documents and now recorded in [canonical_index.md](../canonical_index.md).
+
+*Resolved August 31, 2026 and removed from this list: Autism Connection.* Richard Schreiber ruled to retire the term outright rather than continue sourcing it — see its entry above, now marked Retired.
 
 **Closed August 5, 2026 — all Track 1 frameworks.** Each now carries a platform of origin assigned by Richard under the rule recorded in [Section 3](#3--named-frameworks--track-1-ai-stewardship--legal). What remains open for Track 1 is narrower and may never be recoverable: the specific post, issue, or date on each platform. No entry claims one.
 
@@ -802,17 +804,25 @@ This was the only known instance in the canon where a published book and the can
 
 ---
 
-### C. Duplicate canonical entry — The Teaching Revolution
+### C. Resolved — The Teaching Revolution overlap
 
-The canon carries **The Teaching Revolution** as a locked definition in canonical_index.md and **The Teaching Revolution Framework** as a separate Section 4 entry. Both are canonical and both describe the same body of work at different levels of detail.
+**Resolved August 31, 2026.** The canon carried both **The Teaching Revolution** as a locked definition in canonical_index.md and **The Teaching Revolution Framework** as a separate Section 4 entry, without a ruling on whether they were one idea or two.
 
-Both are recorded above. Neither was merged or deleted, because collapsing two canonical fields into one is a canon decision, not a glossary decision.
+Richard Schreiber's direct ruling: two genuine levels of the same idea, not a duplicate. "The Teaching Revolution" states the broader thesis; "The Teaching Revolution Framework" is the specific operational framework derived from it. Both remain canonical, unmerged — this was a decision, not an oversight.
 
 ---
 
 ### D. Terms named without a confirmed definition
 
 **None.** Every term in Richard's confirmed vocabulary that this glossary encountered has a canonical definition. No term required invention, and no term was omitted for lack of one.
+
+---
+
+### E. Resolved — The AI IT in a Box Framework lineage
+
+**Resolved August 31, 2026.** The AI IT in a Box Framework and The Nine-Phase Deployment Architecture were retired August 26, 2026 for lack of a source (see CHANGELOG.md [1.1.0]). Session 5's canonical integrity audit (August 31, 2026) surfaced that SecureJusticeAI's live four-partner, 90-day consortium model reads almost identically to the retired framework's own definition.
+
+Richard Schreiber's direct ruling: The AI IT in a Box Framework was the working draft that became SecureJusticeAI's four-partner consortium delivery model. It stays retired as a standalone canon entry — its content now lives only inside SecureJusticeAI's live operating model, not as a separate framework.
 
 ---
 
