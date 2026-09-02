@@ -8,6 +8,29 @@ Format: Version | Date | Description
 
 ---
 
+## [1.3.0] — 2026-09-02
+
+**Hallucination case count correction, executed on Richard Schreiber's ruling of September 2, 2026.**
+
+### Resolved
+
+- **Hallucination case count discrepancy** — three figures existed across published and canon material: credibility.md (1,983 cases worldwide, 1,364 in U.S. courts, live-verified 8/30/2026), AUTHORITY-CANON.md's statistical anchor (stale at 1,348), MANIFESTO.md (stale, spelled out as one thousand three hundred forty-eight), and the live richardschreiberai.com manifesto page ("1,600+", external to this repository). Richard Schreiber ruled: the LFE Manifesto's count — 1,983 documented cases worldwide, 1,364 in U.S. courts — is canonical. The other figures are retired from repository use.
+
+### Fixed
+
+- **AUTHORITY-CANON.md** — statistical anchor updated from 1,348 to 1,983 (1,364 in U.S. courts), with a pointer to credibility.md for full citation.
+- **MANIFESTO.md** — spelled-out case count updated from one thousand three hundred forty-eight to one thousand nine hundred eighty-three (thirteen hundred sixty-four in U.S. courts).
+
+### Still open, outside this repository
+
+- The live richardschreiberai.com manifesto page (published June 2026) still reads "1,600+" and needs a manual update on that site — it is not sourced from this repository.
+
+### Files changed
+
+`AUTHORITY-CANON.md` · `MANIFESTO.md` · `CHANGELOG.md`
+
+---
+
 ## [1.2.0] — 2026-08-31
 
 **Session 5 Canonical Integrity Audit rulings, executed on Richard Schreiber's rulings of August 31, 2026.**
