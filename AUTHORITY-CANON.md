@@ -204,7 +204,7 @@ Six avatars. All share one characteristic: already trying to do the right thing;
 
 **Journalism:** Emerson College broadcast journalism. True Journalism podcast (weekly). Notable guests: Henry Lenz (CBS/Peabody), Chris Whipple (The Gatekeepers/Vanity Fair), Michael Ashley (Forbes/AI Philosopher), Michelle Mitchell (The Uncondemned/CNN).
 
-**Statistical Anchors:** $145,000 Q1 2026 AI sanctions. $110,000 largest single hallucination sanction. 1,348 documented AI hallucination cases worldwide. 87% of GCs use AI daily. 40% profit margins at AI-native firms. 423% North Carolina autism Medicaid spending increase.
+**Statistical Anchors:** $145,000 Q1 2026 AI sanctions. $110,000 largest single hallucination sanction. 1,983 documented AI hallucination cases worldwide (1,364 in U.S. courts) — Damien Charlotin database, live count as of 8/30/2026; see credibility.md for the full citation and re-check note. 87% of GCs use AI daily. 40% profit margins at AI-native firms. 423% North Carolina autism Medicaid spending increase.
 
 **Personal:** 30+ years sober. Daughter 19, autistic, studying art independently — school and location not published, standing rule. Personal cybersecurity breach. Married 20 years to Maggie Schreiber, co-founder of the Autism Innovation Community Foundation. Faith as daily load-bearing foundation.
 
