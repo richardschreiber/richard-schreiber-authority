@@ -25,7 +25,7 @@ It finds the most vulnerable person in the room — the domestic violence surviv
 
 This is not a technology problem. It is a leadership decision that has not been made.
 
-Eighty-seven percent of general counsel use AI daily. One thousand three hundred forty-eight documented hallucination cases are on record worldwide. Courts have sanctioned AI-related misconduct to the tune of $145,000 in Q1 2026 alone. The largest single hallucination sanction: $110,000.
+Eighty-seven percent of general counsel use AI daily. One thousand nine hundred eighty-three documented hallucination cases are on record worldwide, thirteen hundred sixty-four of them in U.S. courts. Courts have sanctioned AI-related misconduct to the tune of $145,000 in Q1 2026 alone. The largest single hallucination sanction: $110,000.
 
 The organizations without written policies, documented inventories, human-in-the-loop standards, and rehearsed incident response playbooks are not waiting for the problem to arrive.
 
